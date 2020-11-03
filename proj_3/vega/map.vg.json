@@ -1,0 +1,160 @@
+{
+    "$schema": "https://vega.github.io/schema/vega/v5.json",
+    "width": 900,
+    "height": 560,
+    "padding": {"top": 0, "left": 0, "right": 0, "bottom": 0},
+
+    "layout": {
+        "titleBand": 1
+    },
+
+    "title": {
+        "text": [
+            "Do areas with a higher proportion of atheists experience more earthquakes?"
+        ],
+        "subtitle": [
+            "Pew Research Group, 2014 Regligious Landscape Survey",
+            "USGS ANSS Comprehensive Earthquake Catalog, 2000-2020"
+        ],
+        "subtitlePadding": 10,
+        "fontSize": 20
+    },
+
+    "signals": [
+        {
+            "name": "tooltip",
+            "value": {},
+            "on": [
+              {"events": "rect:mouseover", "update": "datum"},
+              {"events": "rect:mouseout",  "update": "{}"}
+            ]
+        }
+    ],
+
+    "data": [
+        {
+            "name": "earthquakes",
+            "url": "data/earthquakes.csv",
+            "format": {"type": "csv", "parse": "auto", "delimiter": ","},
+            "transform": [
+                {
+                    "type": "geopoint",
+                    "projection": "projection",
+                    "fields": ["longitude", "latitude"]
+                }
+            ]
+        },
+        {
+            "name": "belief",
+            "url": "data/belief_by_state.csv",
+            "format": {"type": "csv", "parse": "auto", "delimiter": ","}
+        },
+        {
+            "name": "land",
+            "url": "data/us-10m.json",
+            "format": {"type": "topojson", "feature": "land"},
+            "transform": [
+                {
+                    "type": "geopath",
+                    "projection": "projection"
+                }
+            ]
+        },
+        {
+            "name": "states",
+            "url": "data/us-10m.json",
+            "format": {"type": "topojson", "feature": "states"},
+            "transform": [
+                {
+                    "type": "geopath",
+                    "projection": "projection"
+                },
+                {
+                    "type": "filter",
+                    "expr": "datum.id != 2 & datum.id != 15"
+                },
+                {
+                    "type": "lookup",
+                    "from": "belief",
+                    "key": "test",
+                    "fields": ["id"],
+                    "values": ["qg1No"],
+                    "default": 10
+                }
+            ]
+        }
+    ],
+    "scales": [
+        {
+            "name": "color",
+            "type": "quantize",
+            "domain": [0, 0.20],
+            "range": {"scheme": "blues", "count": 10}
+        },
+        {
+            "name": "size",
+            "type": "linear",
+            "round": false,
+            "nice": false,
+            "zero": true,
+            "domain": [3,7],
+            "range": [0,150]
+          }
+    ],
+
+    "projections": [
+        {
+            "name": "projection",
+            "type": "albersUsa",
+            "scale": 1200,
+            "translate": [{"signal": "width / 2"}, {"signal": "height / 2"}]
+        }
+    ],
+
+    "legends": [
+        {
+            "fill": "color",
+            "orient": "bottom-right",
+            "title": "% Atheist",
+            "format": "0.1%"
+        }
+    ],
+
+    "marks": [
+        {
+            "type": "group",
+            "from": {"data": "land"},
+            "clip":true
+        },
+        {
+            "type": "path",
+            "from": {"data": "states"},
+            "encode": {
+                "enter": {
+                    "fill": {"scale": "color", "field": "qg1No"},
+                    "stroke": {"value": "white"}
+                },
+                "update": {
+                    "path": {"field": "path"}
+                }
+            }
+        },
+        {
+            "type": "symbol",
+            "from": {"data": "earthquakes"},
+            "encode": {
+                "enter": {
+                    "size": {"scale": "size", "field": "mag"},
+                    "fill": {"value": "red"},
+                    "fillOpacity": {"value": 0.8},
+                    "stroke": {"value": "white"},
+                    "strokeWidth": {"value": 1.5}
+                },
+                "update": {
+                    "x": {"field": "x"},
+                    "y": {"field": "y"}
+                }
+            }
+        }
+    ]
+}

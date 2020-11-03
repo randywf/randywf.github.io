@@ -1,0 +1,89 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "description": "A visualization of belief in god by state",
+  "width": 960,
+  "height": 500,
+  "padding": 50,
+  "autosize": "none",
+
+  "data": [
+    {
+      "name": "belief",
+      "url": "./data/belief_by_state.csv",
+      "format": {"type": "csv", "parse": "auto", "delimiter": ","},
+      "transform": [{"type": "formula", "as": "percent_no", "expr": "datum.qg1No * 100"}]
+    }
+  ],
+
+  "signals": [
+    {
+      "name": "tooltip",
+      "value": {},
+      "on": [
+        {"events": "rect:mouseover", "update": "datum"},
+        {"events": "rect:mouseout",  "update": "{}"}
+      ]
+    }
+  ],
+
+  "scales": [
+    {
+      "name": "xscale",
+      "type": "band",
+      "domain": {"data": "belief", "field": "state"},
+      "range": "width",
+      "padding": 0.05,
+      "round": true
+    },
+    {
+      "name": "yscale",
+      "domain": {"data": "belief", "field": "percent_no"},
+      "range": "height"
+    }
+  ],
+
+  "axes": [
+    { "orient": "bottom", "scale": "xscale" },
+    { "orient": "left", "scale": "yscale" }
+  ],
+
+  "marks": [
+    {
+      "type": "rect",
+      "from": {"data":"belief"},
+      "encode": {
+        "enter": {
+          "x": {"scale": "xscale", "field": "state"},
+          "width": {"scale": "xscale", "band": 1},
+          "y": {"scale": "yscale", "field": "percent_no"},
+          "y2": {"scale": "yscale", "value": 0}
+        },
+        "update": {
+          "fill": {"value": "steelblue"}
+        },
+        "hover": {
+          "fill": {"value": "red"}
+        }
+      }
+    },
+    {
+      "type": "text",
+      "encode": {
+        "enter": {
+          "align": {"value": "center"},
+          "baseline": {"value": "bottom"},
+          "fill": {"value": "#333"}
+        },
+        "update": {
+          "x": {"scale": "xscale", "signal": "tooltip.state", "band": 0.5},
+          "y": {"scale": "yscale", "signal": "tooltip.percent_no", "offset": -2},
+          "text": {"signal": "tooltip.percent_no"},
+          "fillOpacity": [
+            {"test": "isNaN(tooltip.percent_no)", "value": 0},
+            {"value": 1}
+          ]
+        }
+      }
+    }
+  ]
+}

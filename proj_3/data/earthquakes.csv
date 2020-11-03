@@ -1,0 +1,578 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-10-01T00:31:27.340Z,33.056,-115.5898333,11.54,4.93,mw,111,47,0.0189,0.31,ci,ci39641528,2020-10-12T06:21:17.785Z,"4km NE of Westmorland, CA",earthquake,0.17,0.36,,7,reviewed,ci,ci
+2020-09-24T23:06:41.235Z,27.0443,-111.29,10,4.6,mb,,139,0.89,1.11,us,us6000c0xh,2020-09-27T21:06:05.040Z,"70 km ENE of Mulegé, Mexico",earthquake,4,1.9,0.058,88,reviewed,us,us
+2020-09-24T23:01:29.882Z,27.1725,-111.4812,10,5.3,mww,,123,0.692,0.84,us,us6000c0ww,2020-09-25T02:49:22.715Z,"58 km ENE of Mulegé, Mexico",earthquake,7.1,1.9,0.046,45,reviewed,us,us
+2020-09-19T06:38:46.930Z,34.038,-118.08,16.87,4.54,mw,236,16,0.01273,0.25,ci,ci38695658,2020-10-12T05:28:52.639Z,"3km WSW of South El Monte, CA",earthquake,0.11,0.22,,6,reviewed,ci,ci
+2020-08-19T17:32:11.070Z,36.4786667,-117.5141667,-0.57,4.72,mw,53,48,0.2161,0.17,ci,ci39584648,2020-09-30T17:39:38.900Z,"36km WSW of Stovepipe Wells, CA",earthquake,0.15,0.45,,6,reviewed,ci,ci
+2020-08-17T15:31:39.504Z,31.4091,-115.726,10,4.5,mb,,228,0.623,0.87,us,us6000bg04,2020-08-18T15:35:33.864Z,"50 km E of San Vicente, Mexico",earthquake,1.6,2,0.27,5,reviewed,us,us
+2020-08-17T15:30:33.530Z,31.5366667,-115.6613333,16.22,5.12,mw,42,231,0.5267,0.34,ci,ci39347679,2020-09-22T14:57:22.289Z,"88km ESE of Maneadero, B.C., MX",earthquake,0.72,0.81,,6,reviewed,ci,ci
+2020-08-10T15:56:14.330Z,33.2468333,-115.69,2.07,4.59,mw,86,40,0.08504,0.29,ci,ci39338407,2020-10-01T02:24:09.967Z,"12km SSE of Bombay Beach, CA",earthquake,0.21,31.61,,7,reviewed,ci,ci
+2020-08-09T12:07:37.680Z,36.4755,-81.0935,7.58,5.1,mw,34,50,0.452,0.33,se,se60324281,2020-10-12T14:17:17.690Z,"4 km SE of Sparta, North Carolina",earthquake,0.36,1.65,,0,reviewed,se,se
+2020-07-06T06:12:54.847Z,38.1856,-117.8907,5.6,4.5,ml,30,48.55,0.028,0.157,nn,nn00757297,2020-09-11T22:14:19.040Z,"29 km SE of Mina, Nevada",earthquake,,0.7,0.33,10,reviewed,nn,nn
+2020-06-30T09:24:23.549Z,38.1539,-117.9583,8.3,5,ml,28,44.32,0.015,0.2511,nn,nn00755218,2020-09-05T17:35:36.040Z,"29 km SSE of Mina, Nevada",earthquake,,0.9,0.28,7,reviewed,nn,nn
+2020-06-25T05:20:59.627Z,44.3989,-115.1814,7.54,4.6,mwr,,75,0.34,0.64,us,us7000aanf,2020-10-08T17:26:42.977Z,"27 km NW of Stanley, Idaho",earthquake,2.6,4.7,0.028,119,reviewed,us,us
+2020-06-24T17:59:19.960Z,36.456,-117.9311667,9.62,4.59,mw,44,62,0.1212,0.19,ci,ci39494008,2020-09-05T17:35:16.040Z,"19km SE of Lone Pine, CA",earthquake,0.2,0.44,,6,reviewed,ci,ci
+2020-06-24T17:40:49.240Z,36.4468333,-117.9751667,4.66,5.8,mw,48,67,0.08494,0.19,ci,ci39493944,2020-10-07T17:51:00.489Z,"18km SSE of Lone Pine, CA",earthquake,0.18,0.66,,6,reviewed,ci,ci
+2020-06-23T00:25:46.390Z,36.4466667,-117.984,2.26,4.65,mw,51,74,0.07783,0.22,ci,ci39490952,2020-08-30T00:01:05.040Z,"17km SSE of Lone Pine, CA",earthquake,0.19,0.83,,6,reviewed,ci,ci
+2020-06-19T20:42:21.454Z,38.1698,-117.8345,6.5,4.9,ml,21,50.72,0.03,0.1765,nn,nn00750312,2020-08-30T00:00:52.040Z,"49km WNW of Tonopah, Nevada",earthquake,,0.9,0.22,13,reviewed,nn,nn
+2020-06-08T03:24:05.884Z,38.2059,-117.7912,5.2,4.8,ml,32,32.66,0.041,0.174,nn,nn00744961,2020-08-18T17:59:04.040Z,"50km WNW of Tonopah, Nevada",earthquake,,1.1,0.46,9,reviewed,nn,nn
+2020-06-04T01:32:11.140Z,35.6148333,-117.4281667,8.44,5.53,mw,85,45,0.0396,0.21,ci,ci39462536,2020-08-24T11:25:33.444Z,"17km S of Searles Valley, CA",earthquake,0.15,0.45,,6,reviewed,ci,ci
+2020-05-22T00:22:00.588Z,38.2309,-117.7939,7.2,5.1,ml,31,47.16,0.092,0.1378,nn,nn00730721,2020-08-08T18:17:48.040Z,"53km WNW of Tonopah, Nevada",earthquake,,1.4,0.44,11,reviewed,nn,nn
+2020-05-20T12:36:53.447Z,38.2012,-117.7453,11.7,5,ml,20,49.32,0.128,0.1674,nn,nn00729332,2020-08-09T10:22:23.139Z,"46km WNW of Tonopah, Nevada",earthquake,,1.3,0.1,4,reviewed,nn,nn
+2020-05-19T22:12:45.639Z,38.1755,-117.8535,8.1,4.6,ml,23,47.6,0.091,0.1864,nn,nn00728819,2020-08-02T00:28:00.040Z,"53km WNW of Tonopah, Nevada",earthquake,,1.7,0.38,10,reviewed,nn,nn
+2020-05-17T21:17:02.474Z,38.1749,-117.8028,10.4,4.7,ml,24,46.81,0.056,0.1201,nn,nn00727561,2020-08-02T00:29:12.040Z,"49km WNW of Tonopah, Nevada",earthquake,,0.8,0.14,7,reviewed,nn,nn
+2020-05-17T11:53:53.336Z,38.15,-117.9553,9.6,4.5,ml,26,51.9,0.012,0.2003,nn,nn00727244,2020-08-02T00:29:27.040Z,"64km W of Tonopah, Nevada",earthquake,,0.8,0.5,9,reviewed,nn,nn
+2020-05-16T11:50:54.310Z,38.2118,-117.7347,16.8,4.6,ml,18,49.8,0.397,0.1743,nn,nn00726353,2020-08-02T00:30:15.040Z,"45km WNW of Tonopah, Nevada",earthquake,,0.8,0.26,4,reviewed,nn,nn
+2020-05-16T04:12:21.434Z,38.1313,-117.9756,5,4.6,ml,28,43.49,0.333,0.263,nn,nn00726009,2020-08-02T00:30:33.040Z,"60km W of Tonopah, Nevada",earthquake,,1.4,0.46,10,reviewed,nn,nn
+2020-05-15T17:50:16.941Z,38.173,-117.8295,5.8,4.7,ml,15,48.44,0.365,0.1766,nn,nn00725546,2020-08-02T00:31:10.040Z,"52km WNW of Tonopah, Nevada",earthquake,,3.5,0.28,7,reviewed,nn,nn
+2020-05-15T15:23:24.676Z,38.1667,-117.8006,7.6,4.8,ml,14,46.65,0.385,0.1628,nn,nn00725454,2020-08-02T00:31:20.040Z,"50km WNW of Tonopah, Nevada",earthquake,,4.3,0.32,6,reviewed,nn,nn
+2020-05-15T12:00:41.572Z,38.1667,-117.8104,6.3,4.5,ml,17,47.15,0.38,0.1735,nn,nn00725312,2020-08-02T00:31:39.040Z,"48km WNW of Tonopah, Nevada",earthquake,,2.8,0.33,9,reviewed,nn,nn
+2020-05-15T11:52:07.184Z,38.1469,-117.9831,5.8,4.8,ml,17,43.51,0.316,0.1775,nn,nn00725306,2020-08-02T00:31:40.040Z,"59km WNW of Tonopah, Nevada",earthquake,,2,0.4,8,reviewed,nn,nn
+2020-05-15T11:26:01.747Z,38.1811,-117.8711,6.8,5.1,ml,18,49,0.337,0.2335,nn,nn00725291,2020-08-02T00:31:42.040Z,"55km WNW of Tonopah, Nevada",earthquake,,8.6,0.42,10,reviewed,nn,nn
+2020-05-15T11:18:12.392Z,38.1596,-117.9598,3.8,4.9,ml,14,47.97,0.314,0.178,nn,nn00725284,2020-08-02T00:31:44.040Z,"64km W of Tonopah, Nevada",earthquake,,4.3,0.43,6,reviewed,nn,nn
+2020-05-15T11:03:27.176Z,38.1689,-117.8497,2.7,6.5,ml,27,55.79,0.357,0.2669,nn,nn00725272,2020-10-13T19:20:46.022Z,"Monte Cristo Range, NV Earthquake",earthquake,,2.1,,,reviewed,nn,nn
+2020-05-10T22:07:40.370Z,33.0183333,-116.0201667,10.16,4.54,mw,141,21,0.138,0.27,ci,ci38488354,2020-10-01T02:33:59.405Z,"17km SE of Ocotillo Wells, CA",earthquake,0.14,0.48,,6,reviewed,ci,ci
+2020-04-11T16:22:50.940Z,38.0421667,-118.758,8.94,4.57,mw,62,89,0.2888,0.1,nc,nc73367575,2020-06-30T14:02:57.040Z,"29km SE of Bodie, CA",earthquake,0.19,1.08,,4,reviewed,nc,nc
+2020-04-11T14:36:37.040Z,38.0525,-118.7333333,8.45,5.24,mw,46,97,0.268,0.06,nc,nc73367270,2020-10-10T14:46:50.949Z,"30km SE of Bodie, CA",earthquake,0.21,1.15,,4,reviewed,nc,nc
+2020-04-04T01:53:18.920Z,33.4895,-116.5063333,10.45,4.87,mw,175,23,0.07088,0.22,ci,ci39126079,2020-09-29T18:09:19.539Z,"17km ESE of Anza, CA",earthquake,0.1,0.27,,6,reviewed,ci,ci
+2020-04-01T00:27:41.034Z,44.3232,-115.1673,10,4.8,mww,,39,0.935,0.81,us,us70008js1,2020-06-21T00:54:27.040Z,"72km ESE of Cascade, Idaho",earthquake,2.9,1.8,0.11,8,reviewed,us,us
+2020-03-31T23:52:30.781Z,44.4646,-115.1175,12.06,6.5,mww,,31,0.885,0.66,us,us70008jr5,2020-10-14T00:02:45.617Z,"70km W of Challis, Idaho",earthquake,8.5,3.8,0.021,212,reviewed,us,us
+2020-03-26T15:16:27.940Z,31.7168,-104.0419,9.51,5,mww,,25,0.218,0.64,us,us70008ggn,2020-10-08T15:26:39.200Z,"41km W of Mentone, Texas",earthquake,2.4,3.3,0.034,81,reviewed,us,us
+2020-03-22T16:27:38.070Z,40.4251667,-124.827,12.4,4.78,mw,117,227,0.3769,0.16,nc,nc73357410,2020-06-06T20:54:06.040Z,"47km WNW of Petrolia, CA",earthquake,0.36,0.49,,7,reviewed,nc,nc
+2020-03-21T01:33:35.369Z,39.1112,-119.7361,8.4,4.5,ml,31,28.07,0.029,0.1334,nn,nn00719663,2020-06-06T20:54:00.040Z,"6km N of Johnson Lane, Nevada",earthquake,,1.2,0.38,5,reviewed,nn,nn
+2020-03-18T22:08:20.920Z,40.3475,-124.4561667,28.61,5.21,mw,34,248,0.105,0.16,nc,nc73355700,2020-10-07T22:18:35.323Z,"15km W of Petrolia, CA",earthquake,0.78,0.55,,5,reviewed,nc,nc
+2020-03-18T19:12:23.610Z,40.751,-112.059,10.65,4.57,mw,39,47,0.02976,0.21,uu,uu60364832,2020-06-06T20:53:50.040Z,"5km NE of Magna, Utah",earthquake,0.32,0.53,,12,reviewed,uu,uu
+2020-03-18T14:02:12.830Z,40.7605,-112.0693333,9.07,4.59,mw,21,58,0.03587,0.19,uu,uu60363822,2020-06-06T20:53:47.040Z,"4km N of Magna, Utah",earthquake,0.39,0.8,,17,reviewed,uu,uu
+2020-03-18T13:09:31.530Z,40.751,-112.0783333,11.9,5.7,mw,54,50,0.04022,0.2,uu,uu60363602,2020-10-14T13:19:48.995Z,"4km NNW of Magna, Utah",earthquake,0.3,0.39,,0,reviewed,uu,uu
+2020-03-07T03:52:03.180Z,31.6893333,-114.5405,9.98,5.49,mw,13,106,0.3208,0.35,ci,ci38385946,2020-09-22T23:28:42.179Z,"71km SE of Estacion Coahuila, B.C., MX",earthquake,0.78,31.61,,6,reviewed,ci,ci
+2020-02-15T21:23:41.230Z,25.0563,-109.6626,10,4.6,mb,,111,1.117,0.82,us,us70007r0d,2020-05-02T22:09:55.040Z,"86km SW of Topolobampo, Mexico",earthquake,6.6,1.9,0.08,46,reviewed,us,us
+2020-01-25T03:03:34.920Z,35.0975,-116.9696667,3.07,4.62,mw,46,33,0.2228,0.14,ci,ci39281440,2020-07-23T21:33:16.349Z,"23km NNE of Barstow, CA",earthquake,0.14,0.66,,6,reviewed,ci,ci
+2020-01-19T19:08:42.322Z,38.0246,-97.973,5,4.5,mwr,,89,0.026,0.29,us,us60007att,2020-07-01T19:17:26.882Z,"2km W of South Hutchinson, Kansas",earthquake,1.9,1.6,0.037,71,reviewed,us,us
+2019-12-12T12:25:34.101Z,30.7213,-114.3417,10,4.6,mb,,139,1.019,1.22,us,us60006qim,2020-03-04T21:26:56.040Z,"58km ESE of San Felipe, Mexico",earthquake,3.9,1.9,0.111,24,reviewed,us,us
+2019-11-30T01:45:12.620Z,42.776,-124.476666666667,16.65,4.53,ml,15,142,,0.25,uw,uw61562126,2020-02-19T18:58:22.040Z,"3km NNE of Port Orford, Oregon",earthquake,0.4,0.79,0.124880414425303,10,reviewed,uw,uw
+2019-10-15T19:42:30.540Z,36.6455,-121.274,10.1,4.71,mw,89,54,0.04759,0.14,nc,nc73292360,2020-09-29T22:06:48.876Z,"17km SSE of Tres Pinos, CA",earthquake,0.15,0.31,,4,reviewed,nc,nc
+2019-09-10T04:25:55.631Z,39.5419,-116.5599,9.1,4.6,ml,53,67.17,0.857,0.2275,nn,nn00703188,2019-12-05T18:30:53.040Z,"44km E of Austin, Nevada",earthquake,,2.2,0.27,23,reviewed,nn,nn
+2019-08-22T20:49:50.170Z,35.9076667,-117.7091667,4.87,4.89,mw,78,20,0.008028,0.2,ci,ci38996632,2020-03-09T18:26:12.119Z,"18km E of Little Lake, CA",earthquake,0.12,0.28,,6,reviewed,ci,ci
+2019-07-26T00:42:47.770Z,35.9258333,-117.7068333,3.79,4.74,mw,79,23,0.05083,0.16,ci,ci38644943,2020-02-10T20:48:03.543Z,"18km E of Little Lake, CA",earthquake,0.1,0.28,,6,reviewed,ci,ci
+2019-07-18T03:59:14.870Z,36.1123333,-117.8886667,2.7,4.64,mw,79,54,0.02787,0.19,ci,ci38593535,2020-04-21T17:00:59.280Z,"9km NE of Coso Junction, CA",earthquake,0.13,0.33,,6,reviewed,ci,ci
+2019-07-12T13:11:38.000Z,35.6368333,-117.5861667,9.44,4.9,mw,103,16,0.02027,0.16,ci,ci38548295,2020-04-29T18:47:56.321Z,"8km ENE of Ridgecrest, CA",earthquake,0.08,0.18,,6,reviewed,ci,ci
+2019-07-12T09:51:38.340Z,47.8728333333333,-122.016333333333,28.82,4.58,ml,75,37,,0.44,uw,uw61535372,2020-06-30T08:55:28.126Z,"3km WNW of Monroe, Washington",earthquake,0.53,0.88,0.175257668551533,49,reviewed,uw,uw
+2019-07-11T00:14:37.320Z,36.1765,-117.8836667,0.94,4.52,mw,71,51,0.06325,0.17,ci,ci38525207,2020-03-26T21:23:05.092Z,"16km NNE of Coso Junction, CA",earthquake,0.11,0.22,,6,reviewed,ci,ci
+2019-07-07T05:38:15.480Z,35.7681667,-117.5778333,10.57,4.53,mw,75,44,0.05009,0.16,ci,ci38472279,2020-08-21T21:20:44.129Z,"16km W of Searles Valley, CA",earthquake,0.13,0.27,,6,reviewed,ci,ci
+2019-07-06T23:50:41.990Z,35.8235,-117.663,6.51,4.5,mw,69,28,0.05379,0.14,ci,ci38469375,2019-09-26T14:30:48.040Z,"23km N of Ridgecrest, CA",earthquake,0.11,0.3,,6,reviewed,ci,ci
+2019-07-06T13:06:55.260Z,35.9283333,-117.705,2.37,4.5,mw,64,34,0.04844,0.16,ci,ci38463551,2019-09-26T14:30:42.040Z,"18km E of Little Lake, CA",earthquake,0.12,0.21,,6,reviewed,ci,ci
+2019-07-06T09:28:28.980Z,35.898,-117.7271667,3.95,4.89,mw,67,37,0.0896,0.16,ci,ci38460967,2019-09-26T14:30:38.040Z,"17km ESE of Little Lake, CA",earthquake,0.13,0.38,,6,reviewed,ci,ci
+2019-07-06T08:32:57.550Z,35.639,-117.4913333,3.14,4.56,mw,83,24,0.05751,0.15,ci,ci38460311,2019-09-26T14:30:37.040Z,"16km SSW of Searles Valley, CA",earthquake,0.11,0.27,,6,reviewed,ci,ci
+2019-07-06T06:01:51.800Z,35.911,-117.7385,4.99,4.63,mw,67,36,0.07482,0.14,ci,ci38458679,2019-11-15T18:54:44.787Z,"15km E of Little Lake, CA",earthquake,0.09,0.4,,4,reviewed,ci,ci
+2019-07-06T04:36:55.310Z,35.9,-117.7376667,1.9,4.85,mw,62,35,0.08153,0.17,ci,ci38457967,2020-03-05T21:00:31.509Z,"16km ESE of Little Lake, CA",earthquake,0.13,0.21,,5,reviewed,ci,ci
+2019-07-06T04:18:55.790Z,35.9101667,-117.6848333,7.41,5.44,mw,66,37,0.07213,0.17,ci,ci38457847,2020-05-21T01:08:33.207Z,"20km E of Little Lake, CA",earthquake,0.12,0.36,,6,reviewed,ci,ci
+2019-07-06T04:13:07.080Z,35.5846667,-117.6145,9.73,4.8,mlr,62,32,0.1185,0.18,ci,ci38457815,2019-11-15T18:23:14.307Z,"7km SE of Ridgecrest, CA",earthquake,0.13,0.36,0.165,229,reviewed,ci,ci
+2019-07-06T04:07:04.570Z,35.5551667,-117.5215,5.5,4.68,mlr,90,24,0.05757,0.23,ci,ci38457775,2020-03-02T22:19:38.728Z,"16km ESE of Ridgecrest, CA",earthquake,0.13,0.51,0.219,249,reviewed,ci,ci
+2019-07-06T03:50:59.710Z,35.9035,-117.7001667,8.26,4.97,mlr,43,38,0.05997,0.17,ci,ci38457703,2019-11-15T18:09:02.473Z,"19km E of Little Lake, CA",earthquake,0.16,0.41,0.184,246,reviewed,ci,ci
+2019-07-06T03:47:53.420Z,35.9011667,-117.7495,5.04,5.5,mw,49,33,0.07334,0.16,ci,ci38457687,2020-07-09T21:44:24.632Z,"15km ESE of Little Lake, CA",earthquake,0.13,0.5,,4,reviewed,ci,ci
+2019-07-06T03:29:32.080Z,35.9028333,-117.7115,3.18,4.51,mlr,27,42,0.06696,0.15,ci,ci38457583,2019-11-15T17:37:47.310Z,"18km ESE of Little Lake, CA",earthquake,0.2,0.6,0.191,15,reviewed,ci,ci
+2019-07-06T03:27:11.370Z,35.5303333,-117.4313333,3.83,4.57,mlr,7,119,0.05475,0.1,ci,ci37219564,2019-09-06T17:32:11.137Z,"24km ESE of Ridgecrest, CA",earthquake,0.31,0.41,0.05,2,reviewed,ci,ci
+2019-07-06T03:27:07.010Z,35.9138333,-117.7258333,8,4.5,mlr,27,56,0.07004,0.18,ci,ci37219180,2019-09-26T14:30:30.040Z,"16km E of Little Lake, CA",earthquake,0.27,0.56,0.181,20,reviewed,ci,ci
+2019-07-06T03:25:27.970Z,35.8606667,-117.6708333,10.32,4.61,mlr,37,43,0.07456,0.2,ci,ci37219172,2019-09-26T14:30:25.040Z,"23km ESE of Little Lake, CA",earthquake,0.22,0.39,0.126,30,reviewed,ci,ci
+2019-07-06T03:23:50.720Z,35.8031667,-117.6178333,11.44,4.84,mlr,39,54,0.02074,0.23,ci,ci37219164,2019-11-15T17:26:02.971Z,"20km WNW of Searles Valley, CA",earthquake,0.26,0.53,0.174,52,reviewed,ci,ci
+2019-07-06T03:23:19.870Z,35.861,-117.6778333,6.82,4.52,mlr,13,85,0.07937,0.24,ci,ci37219468,2019-08-08T22:10:14.040Z,"22km ESE of Little Lake, CA",earthquake,0.47,1.03,0.143,6,reviewed,ci,ci
+2019-07-06T03:22:48.300Z,35.891,-117.7365,9.1,4.64,mlr,29,34,0.08543,0.16,ci,ci37219156,2019-11-15T17:17:41.338Z,"16km ESE of Little Lake, CA",earthquake,0.2,0.43,0.12,21,reviewed,ci,ci
+2019-07-06T03:22:35.630Z,35.6166667,-117.4301667,9.35,4.73,mlr,7,180,0.03984,0.14,ci,ci37219500,2019-08-08T22:09:44.040Z,"17km S of Searles Valley, CA",earthquake,0.66,0.69,0.035,3,reviewed,ci,ci
+2019-07-06T03:22:17.100Z,35.748,-117.5456667,3.9,4.55,mlr,22,70,0.07966,0.2,ci,ci37219484,2019-08-08T22:07:42.040Z,"13km W of Searles Valley, CA",earthquake,0.28,0.72,0.199,14,reviewed,ci,ci
+2019-07-06T03:22:03.570Z,35.9216667,-117.729,8.17,4.64,mlr,21,52,0.06897,0.15,ci,ci38457519,2019-11-15T17:23:05.605Z,"16km E of Little Lake, CA",earthquake,0.25,0.54,0.148,13,reviewed,ci,ci
+2019-07-06T03:20:41.140Z,35.9496667,-117.7376667,9.28,4.81,mlr,13,93,0.06493,0.09,ci,ci37222196,2019-08-15T20:09:34.004Z,"15km E of Little Lake, CA",earthquake,0.23,0.45,0.162,11,reviewed,ci,ci
+2019-07-06T03:19:53.040Z,35.7695,-117.5993333,8,7.1,mw,77,43,0.04616,0.22,ci,ci38457511,2020-09-27T22:11:41.562Z,"2019 Ridgecrest Earthquake Sequence",earthquake,0.19,31.61,,0,reviewed,ci,ci
+2019-07-06T03:16:32.480Z,35.7253333,-117.5535,0.88,4.97,mw,83,35,0.09705,0.19,ci,ci38457487,2020-04-05T23:26:37.030Z,"14km WSW of Searles Valley, CA",earthquake,0.13,0.31,,6,reviewed,ci,ci
+2019-07-05T11:07:53.040Z,35.7603333,-117.575,6.95,5.37,mw,79,43,0.05824,0.2,ci,ci38450263,2020-07-14T17:30:09.310Z,"16km W of Searles Valley, CA",earthquake,0.13,0.36,,6,reviewed,ci,ci
+2019-07-04T19:21:32.090Z,35.6715,-117.4788333,5.16,4.5,mw,79,24,0.08589,0.16,ci,ci38443871,2019-09-26T14:30:12.040Z,"13km SSW of Searles Valley, CA",earthquake,0.12,0.39,,4,reviewed,ci,ci
+2019-07-04T18:56:06.420Z,35.716,-117.56,1.92,4.58,mw,82,36,0.1041,0.17,ci,ci38443719,2020-05-21T01:06:05.310Z,"15km NE of Ridgecrest, CA",earthquake,0.09,0.21,,6,reviewed,ci,ci
+2019-07-04T18:39:44.440Z,35.6013333,-117.597,2.81,4.59,mw,48,39,0.1109,0.14,ci,ci38443607,2020-05-21T01:04:23.535Z,"7km ESE of Ridgecrest, CA",earthquake,0.13,0.43,,4,reviewed,ci,ci
+2019-07-04T17:33:49.000Z,35.7053333,-117.5038333,10.5,6.4,mw,62,47,0.1233,0.16,ci,ci38443183,2020-09-19T06:55:04.772Z,"Ridgecrest Earthquake Sequence",earthquake,0.15,0.36,,6,reviewed,ci,ci
+2019-06-23T03:53:02.890Z,40.2735,-124.3003333,9.44,5.58,mw,34,159,0.03116,0.17,nc,nc73201181,2020-07-10T14:25:30.367Z,"6km SSW of Petrolia, CA",earthquake,0.34,0.21,,6,reviewed,nc,nc
+2019-06-22T08:50:24.953Z,39.216,-99.4259,3,4.6,mww,,46,0.469,0.53,us,us600044l0,2020-07-10T17:29:36.529Z,"11km W of Plainville, Kansas",earthquake,3.4,2,0.052,36,reviewed,us,us
+2019-04-20T14:41:49.179Z,31.3428,-115.6838,10,4.5,mww,,184,0.697,0.65,us,us700039mz,2019-06-26T20:55:01.040Z,"65km NNE of Camalu, Mexico",earthquake,2.4,2,0.069,20,reviewed,us,us
+2019-04-09T18:08:46.055Z,44.6972,-112.5078,14.45,4.6,mww,,41,0.131,0.43,us,us600032fs,2019-07-14T02:17:00.728Z,"9km NE of Lima, Montana",earthquake,1.2,6.1,0.086,13,reviewed,us,us
+2019-04-06T21:01:41.937Z,30.8278,-114.0297,10,5.2,mww,,131,0.736,0.64,us,us2000kbgw,2019-06-18T15:50:37.040Z,"71km SW of Puerto Penasco, Mexico",earthquake,2.5,1.8,0.039,62,reviewed,us,us
+2019-01-17T12:56:37.110Z,29.6356,-114.1301,10,5.3,mww,,172,1.53,1.18,us,us2000j517,2019-04-05T21:40:59.040Z,"138km NNW of San Luis, Mexico",earthquake,4.7,1.9,0.035,78,reviewed,us,us
+2019-01-15T23:30:48.660Z,37.2318,-73.0097,10,4.6,mww,,74,2.146,1.2,us,us2000j4bf,2020-09-14T14:53:07.551Z,"220km ESE of Ocean City, Maryland",earthquake,6.8,1.9,0.089,12,reviewed,us,us
+2019-01-05T09:36:58.640Z,26.1622,-110.6621,10,4.5,mb,,139,1.564,1.35,us,us2000j0h7,2019-03-08T17:50:16.040Z,"70km ENE of Loreto, Mexico",earthquake,4.7,1.7,0.052,109,reviewed,us,us
+2019-01-04T12:33:05.990Z,26.3588,-110.7377,10,4.9,mb,,136,1.649,0.98,us,us2000j09h,2019-03-08T17:50:15.040Z,"71km ENE of Loreto, Mexico",earthquake,5.5,1.9,0.043,169,reviewed,us,us
+2018-11-19T20:18:42.510Z,32.2065,-115.2535,10.95,4.82,mw,29,149,0.2168,0.38,ci,ci38138175,2019-02-02T20:02:26.040Z,"8km WSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.79,31.61,,6,reviewed,ci,ci
+2018-11-09T14:33:51.830Z,25.9824,-110.4898,10,4.9,mb,,153,2.339,1.06,us,us1000hpq9,2019-01-21T16:42:57.040Z,"91km E of Loreto, Mexico",earthquake,8.2,1.9,0.048,136,reviewed,us,us
+2018-07-28T02:33:49.530Z,31.3986,-114.3941,10,4.8,mww,,76,0.531,1.1,us,us2000gft1,2018-10-09T16:43:19.040Z,"63km NE of San Felipe, Mexico",earthquake,5.4,1.9,0.055,32,reviewed,us,us
+2018-07-05T15:17:36.947Z,35.8945,-115.7758,8.6,4.5,ml,59,40.27,0.303,0.2678,nn,nn00642964,2019-07-05T14:26:17.112Z,"15km WNW of Sandy Valley, Nevada",earthquake,,1.3,0.33,17,reviewed,nn,nn
+2018-05-06T16:47:09.220Z,27.871,-88.6778,10,4.6,mb,,71,2.684,0.77,us,us1000dzed,2019-07-18T05:24:54.376Z,"182km SSE of Buras-Triumph, Louisiana",earthquake,7.1,1.9,0.042,170,reviewed,us,us
+2018-04-09T10:22:20.300Z,36.2185,-97.5735,4.935,4.6,mww,,23,,0.25,us,us2000dwui,2020-03-20T02:12:09.267Z,"26km WSW of Perry, Oklahoma",earthquake,0.9,3.2,0.059,28,reviewed,tul,us
+2018-04-07T12:16:03.300Z,36.2896,-97.5166,5.791,4.6,mww,,25,,0.16,us,us2000dw0r,2020-03-20T02:10:54.307Z,"20km W of Perry, Oklahoma",earthquake,0.7,5.2,0.068,21,reviewed,tul,us
+2018-04-05T19:29:16.500Z,33.8375,-119.7258333,9.87,5.29,mw,90,129,0.1747,0.31,ci,ci37908735,2020-09-21T22:50:05.267Z,"29km SW of Santa Cruz Is. (E end), CA",earthquake,0.28,31.61,,6,reviewed,ci,ci
+2018-03-23T03:09:39.100Z,40.4278333,-124.5108333,25.19,4.66,mw,31,247,0.1406,0.15,nc,nc72988926,2018-06-19T01:35:48.040Z,"22km WNW of Petrolia, CA",earthquake,0.49,0.5,,4,reviewed,nc,nc
+2018-03-19T23:36:41.520Z,31.0935,-114.275,10,4.8,mwr,,111,0.497,0.84,us,us1000d760,2018-07-27T03:58:26.430Z,"57km E of San Felipe, Mexico",earthquake,4.6,1.9,0.037,72,reviewed,us,us
+2018-01-21T17:04:12.580Z,30.2302,-114.2468,10,4.5,mb,,197,0.958,1.25,us,us2000cm5c,2018-04-10T01:11:50.040Z,"103km SE of San Felipe, Mexico",earthquake,7,1.9,0.058,89,reviewed,us,us
+2018-01-20T13:48:54.420Z,26.6362,-111.0263,10,4.5,mb,,141,1.28,1.42,us,us2000clsy,2018-04-10T01:11:48.040Z,"75km NNE of Loreto, Mexico",earthquake,5.2,1.9,0.088,38,reviewed,us,us
+2018-01-19T16:48:28.010Z,26.6067,-111.1312,10,4.5,mb,,146,1.218,1.47,us,us2000cl8x,2018-04-10T01:11:47.040Z,"68km NNE of Loreto, Mexico",earthquake,7.4,1.9,0.058,87,reviewed,us,us
+2018-01-19T16:17:44.720Z,26.6862,-111.0785,10,6.3,mww,,109,1.214,1.45,us,us2000cl83,2020-07-10T17:00:41.030Z,"78km NNE of Loreto, Mexico",earthquake,5.7,1.8,0.035,79,reviewed,us,us
+2017-11-13T19:31:29.050Z,36.6305,-121.2443333,6.31,4.58,mw,82,55,0.05988,0.11,nc,nc72923380,2018-10-05T14:00:40.985Z,"22km NE of Gonzales, California",earthquake,0.12,0.36,,6,reviewed,nc,nc
+2017-09-11T13:26:35.640Z,42.547,-111.4397,8.42,4.7,mww,,51,0.039,0.37,us,us2000ak17,2017-12-13T02:29:38.040Z,"18km SE of Soda Springs, Idaho",earthquake,2.1,5.5,0.053,34,reviewed,us,us
+2017-09-10T11:12:39.050Z,42.6074,-111.4701,4.56,4.7,mww,,30,0.025,0.47,us,us2000ajbt,2017-12-13T02:29:34.040Z,"12km ESE of Soda Springs, Idaho",earthquake,1,2.6,0.059,28,reviewed,us,us
+2017-09-10T09:47:10.570Z,42.5629,-111.4155,9.83,5,mww,,24,0.034,0.75,us,us2000aj9i,2017-12-13T02:29:33.040Z,"18km ESE of Soda Springs, Idaho",earthquake,1.5,5,0.047,44,reviewed,us,us
+2017-09-06T04:37:44.500Z,42.572,-111.4444,10,4.6,mww,,44,0.319,1.01,us,us2000agiz,2017-12-07T20:00:15.040Z,"16km SE of Soda Springs, Idaho",earthquake,3.2,2,0.068,21,reviewed,us,us
+2017-09-04T06:17:09.000Z,42.6213,-111.4516,5.71,4.5,mwr,,125,0.296,0.35,us,us2000afeu,2017-12-07T20:00:09.040Z,"13km ESE of Soda Springs, Idaho",earthquake,1.7,1,0.037,69,reviewed,us,us
+2017-09-03T17:41:39.590Z,42.6381,-111.474,7.69,4.7,mww,,136,0.303,0.56,us,us2000af79,2018-01-26T03:54:27.968Z,"10km E of Soda Springs, Idaho",earthquake,1.5,4.2,0.06,27,reviewed,us,us
+2017-09-03T16:49:17.380Z,42.6137,-111.4287,10,4.7,mww,,54,0.285,0.48,us,us2000af5z,2017-12-07T20:00:08.040Z,"15km ESE of Soda Springs, Idaho",earthquake,1.8,1.9,0.058,29,reviewed,us,us
+2017-09-02T23:56:52.630Z,42.6474,-111.4492,9.52,5.3,mww,,29,0.282,0.6,us,us2000aekg,2020-04-01T01:14:38.349Z,"12km E of Soda Springs, Idaho",earthquake,2.1,3.1,0.038,68,reviewed,us,us
+2017-07-06T06:35:35.960Z,46.8128,-112.665,14.73,5,mww,,107,0.876,0.57,us,us1000975k,2017-11-15T19:02:48.898Z,"15km S of Lincoln, Montana",earthquake,4.9,5.9,0.046,46,reviewed,us,us
+2017-07-06T06:30:17.000Z,46.8811,-112.5753,12.18,5.8,mww,,62,0.214,0.59,us,us10009757,2020-07-10T15:34:33.825Z,"11km SE of Lincoln, Montana",earthquake,5.5,3.9,0.021,212,reviewed,us,us
+2017-03-29T15:15:23.470Z,25.7127,-110.0237,17,5.7,mww,,68,0.894,0.83,us,us20008vll,2017-06-16T23:08:02.040Z,"78km WSW of Higuera de Zaragoza, Mexico",earthquake,2.6,1.8,0.054,33,reviewed,us,us
+2016-12-28T09:13:47.243Z,38.3777,-118.8957,8.8,5.5,ml,33,48.58,0.129,0.2187,nn,nn00570744,2020-05-21T01:43:17.438Z,"28km SW of Hawthorne, Nevada",earthquake,,2,0.26,18,reviewed,nn,nn
+2016-12-28T08:22:12.208Z,38.3904,-118.8972,12.2,5.6,ml,43,42.44,0.123,0.1913,nn,nn00570710,2018-07-02T18:09:31.575Z,"26km SW of Hawthorne, Nevada",earthquake,,1.2,0.32,18,reviewed,nn,nn
+2016-12-28T08:18:00.613Z,38.3755,-118.8989,11.3,5.6,ml,37,35.89,0.133,0.1599,nn,nn00570709,2020-07-10T14:27:55.840Z,"27km SW of Hawthorne, Nevada",earthquake,,1,0.35,20,reviewed,nn,nn
+2016-12-14T16:41:05.530Z,38.8221667,-122.8413333,1.48,5.01,mw,85,26,0.01351,0.06,nc,nc72737985,2020-05-21T01:30:54.745Z,"8km NW of The Geysers, California",earthquake,0.08,0.1,,6,reviewed,nc,nc
+2016-12-13T13:27:34.050Z,25.1174,-109.4987,10,4.5,mb,,215,0.635,0.82,us,us200080fu,2017-03-09T02:14:30.040Z,"69km SW of Topolobampo, Mexico",earthquake,6,1.9,0.052,109,reviewed,us,us
+2016-11-20T21:14:29.760Z,24.673,-109.1901,10,4.6,mb,,118,0.933,0.99,us,us10007g2r,2017-02-15T23:21:30.040Z,"103km S of Topolobampo, Mexico",earthquake,2.3,2,0.222,6,reviewed,us,us
+2016-11-07T01:44:24.500Z,35.9907,-96.803,4.43,5,mww,,52,,0.25,us,us100075y8,2020-08-25T22:30:15.287Z,"3km W of Cushing, Oklahoma",earthquake,0.5,1.8,,,reviewed,tul,us
+2016-10-17T06:23:21.810Z,25.0912,-109.6315,10,4.6,mb,,102,0.737,1.12,us,us20007fwx,2017-01-15T01:13:59.040Z,"81km SW of Topolobampo, Mexico",earthquake,4,2,0.546,1,reviewed,us,us
+2016-10-13T03:55:12.520Z,25.476,-109.7346,24.03,5.3,mww,,114,0.639,0.99,us,us20007dr2,2017-01-07T00:20:52.040Z,"69km SW of Higuera de Zaragoza, Mexico",earthquake,5,4.8,,,reviewed,us,us
+2016-09-03T12:02:44.400Z,36.4251,-96.9291,5.557,5.8,mww,,69,,0.7,us,us10006jxs,2020-08-15T00:27:16.981Z,"14km NW of Pawnee, Oklahoma",earthquake,1.2,6.1,,,reviewed,tul,us
+2016-08-27T20:47:47.240Z,43.2226,-110.3593,12.3,4.8,mwr,,7,0.373,1.14,us,us20006umx,2018-03-24T01:11:22.062Z,"35km E of Hoback, Wyoming",earthquake,4.1,3.7,0.035,78,reviewed,us,us
+2016-08-15T17:06:21.810Z,30.6368,-114.3145,10,4.5,mb,,151,0.61,0.97,us,us10006dxr,2016-11-15T02:21:50.040Z,"66km SE of San Felipe, Mexico",earthquake,6.8,1.9,0.043,156,reviewed,us,us
+2016-08-10T02:57:17.510Z,39.3293333,-122.8018333,14.45,5.09,mw,120,32,0.155,0.15,nc,nc72672610,2019-05-15T20:30:20.762Z,"20km NNE of Upper Lake, California",earthquake,0.12,0.21,,6,reviewed,nc,nc
+2016-07-21T23:09:05.780Z,40.7243333,-123.8918333,26.24,4.81,mw,49,39,0.14,0.17,nc,nc72664436,2019-02-21T21:54:18.846Z,"19km SSE of Blue Lake, CA",earthquake,0.26,0.81,,6,reviewed,nc,nc
+2016-07-07T23:40:45.777Z,38.6516,-118.7943,9.1,4.5,ml,28,50.51,0.196,0.1551,nn,nn00550904,2018-07-02T17:58:20.550Z,"20km NW of Hawthorne, Nevada",earthquake,,1.2,0.34,14,reviewed,nn,nn
+2016-06-10T08:04:38.700Z,33.4315,-116.4426667,12.31,5.19,mw,143,18,0.09275,0.23,ci,ci37374687,2020-07-09T21:43:24.762Z,"20km NNW of Borrego Springs, CA",earthquake,0.13,0.34,,6,reviewed,ci,ci
+2016-03-28T00:12:54.690Z,30.2073,-114.3078,10,5.5,mww,,107,0.95,0.94,us,us20005ct5,2016-11-10T22:14:48.591Z,"102km SSE of San Felipe, Mexico",earthquake,4.5,1.8,,,reviewed,us,us
+2016-03-28T00:03:41.190Z,30.2219,-114.2783,10,5.1,mww,,89,0.951,0.97,us,us20005csz,2016-06-10T23:32:53.040Z,"103km SSE of San Felipe, Mexico",earthquake,4.8,1.8,,,reviewed,us,us
+2016-02-24T00:02:23.630Z,35.5423333,-119.3728333,22.14,4.87,mw,84,37,0.295,0.29,ci,ci37528064,2018-01-07T01:45:07.687Z,"6km SSW of Wasco, CA",earthquake,0.24,0.65,,6,reviewed,ci,ci
+2016-02-16T23:04:26.910Z,37.2023333,-118.4035,15.06,4.77,mw,52,104,0.118,0.07,nc,nc72592670,2018-07-02T17:47:58.587Z,"10km WNW of Big Pine, California",earthquake,0.27,0.63,,6,reviewed,nc,nc
+2016-02-13T17:07:06.290Z,36.4898,-98.709,8.31,5.1,mww,,17,0.218,1.09,us,us20004zy8,2020-07-10T16:23:33.732Z,"31km NW of Fairview, Oklahoma",earthquake,1.8,3.7,,,reviewed,us,us
+2016-01-07T04:27:57.600Z,36.4955,-98.7254,4.058,4.7,mww,,118,,0.99,us,us10004bz5,2020-07-10T14:57:32.165Z,"33km NW of Fairview, Oklahoma",earthquake,4.1,3.5,,,reviewed,tul,us
+2015-12-30T07:39:29.310Z,48.5865,-123.3003333,52.42,4.79,ml,27,81,0.1167,0.19,uw,uw61114971,2019-05-07T21:47:57.354Z,"17km NNE of Victoria, Canada",earthquake,0.43,0.67,0.137,178,reviewed,uw,uw
+2015-12-27T19:24:56.620Z,25.6559,-120.9243,10,4.9,mb,,196,7.229,1.39,us,us100049yu,2016-11-10T22:06:15.467Z,"North Pacific Ocean",earthquake,10.4,1.9,0.075,56,reviewed,us,us
+2015-11-30T09:49:12.800Z,36.7509,-98.0561,5.629,4.7,mwr,,176,,0.66,us,us1000424d,2020-03-20T00:43:49.308Z,"26km E of Cherokee, Oklahoma",earthquake,3,4.9,0.022,190,reviewed,tul,us
+2015-11-19T07:42:12.000Z,36.6602,-98.4594,5.914,4.7,mwr,,116,,0.66,us,us10003zgz,2020-07-10T14:50:51.022Z,"13km SW of Cherokee, Oklahoma",earthquake,3,4.2,0.04,59,reviewed,tul,us
+2015-09-14T13:55:48.087Z,41.8594,-119.6271,9.7,4.7,ml,10,98.44,0.157,0.2669,nn,nn00510518,2020-05-21T01:39:22.642Z,"69km ESE of Lakeview, Oregon",earthquake,,4.3,0.4,6,reviewed,nn,nn
+2015-09-13T15:04:54.450Z,24.9039,-109.3154,10,4.9,mb,,83,1.206,0.84,us,us20003j5w,2016-11-10T21:51:55.825Z,"81km SSW of Topolobampo, Mexico",earthquake,5.8,1.8,0.04,197,reviewed,us,us
+2015-09-13T08:27:12.440Z,24.9529,-109.7119,10,5.2,mb,,56,1.006,0.92,us,us20003j54,2015-12-12T00:42:50.040Z,"97km SW of Topolobampo, Mexico",earthquake,4.3,1.8,0.042,189,reviewed,us,us
+2015-09-13T08:14:08.560Z,24.913,-109.6226,10,6.7,mww,,123,1.256,0.65,us,us20003j4u,2020-07-10T16:15:07.190Z,"95km SW of Topolobampo, Mexico",earthquake,6.6,2,,,reviewed,us,us
+2015-09-13T07:57:33.460Z,24.8094,-109.5138,10,5.6,mww,,117,1.185,1.25,us,us20003j4t,2016-11-10T21:51:53.062Z,"99km SSW of Topolobampo, Mexico",earthquake,8.1,2,,,reviewed,us,us
+2015-09-13T07:40:36.570Z,24.9056,-109.6985,10,5.3,mwc,,102,0.973,1.4,us,us20003j4l,2016-11-10T21:51:51.980Z,"100km SW of Topolobampo, Mexico",earthquake,3.8,1.7,,,reviewed,us,gcmt
+2015-07-27T18:12:15.400Z,35.9889,-97.5717,5,4.5,mwr,,,,0.87,us,us200030gd,2020-07-10T16:13:35.528Z,"4km NNE of Crescent, Oklahoma",earthquake,2,4.3,0.037,69,reviewed,tul,us
+2015-07-27T01:05:33.610Z,41.8875,-119.6226,10.7,4.5,ml,7,104.43,0.144,0.1857,nn,nn00503760,2020-05-12T04:28:13.326Z,"68km ESE of Lakeview, Oregon",earthquake,,2.4,0.33,6,reviewed,nn,nn
+2015-07-20T06:31:32.290Z,25.4348,-109.6859,10,4.6,mb,,107,1.442,1.04,us,us20002ym9,2015-10-14T21:05:46.040Z,"66km WSW of Topolobampo, Mexico",earthquake,7.1,1.9,0.041,179,reviewed,us,us
+2015-07-16T01:52:11.994Z,41.8986,-119.6367,10.1,4.6,ml,6,155.91,0.129,0.184,nn,nn00501944,2020-05-02T03:35:01.760Z,"66km ESE of Lakeview, Oregon",earthquake,,5.8,0.43,5,reviewed,nn,nn
+2015-05-22T18:47:42.980Z,37.2925,-114.6546,4,5.3,ml,32,109.36,0.335,0.159,nn,nn00495477,2018-06-29T23:53:44.297Z,"37km SSW of Caliente, Nevada",earthquake,,1.9,0.22,11,reviewed,nn,nn
+2015-02-14T02:28:56.228Z,37.1418,-117.2618,17,4.8,ml,19,54.03,0.168,0.1919,nn,nn00482627,2020-05-02T03:32:22.257Z,"51km WNW of Beatty, Nevada",earthquake,,1.3,0.28,6,reviewed,nn,nn
+2015-02-09T01:45:03.110Z,31.5236667,-115.6743333,12.503,4.89,mw,6,134,0.5093,0.15,ci,ci37314320,2020-07-09T21:43:00.163Z,"87km ESE of Maneadero, B.C., MX",earthquake,0.78,31.61,,6,reviewed,ci,ci
+2015-01-28T21:08:53.710Z,40.3178333,-124.6066667,16.881,5.72,mw,52,230,0.2459,0.13,nc,nc72387946,2020-07-10T14:25:05.382Z,"40km SW of Ferndale, California",earthquake,0.54,0.33,,13,reviewed,nc,nc
+2015-01-22T09:09:16.708Z,41.8833,-119.6332,11.7,4.5,ml,10,100.42,0.139,0.1541,nn,nn00478560,2020-05-21T04:38:03.913Z,"68km ESE of Lakeview, Oregon",earthquake,,2.3,0.33,9,reviewed,nn,nn
+2015-01-03T17:44:03.530Z,44.5074,-114.112,8.5,5,mww,,10,0.123,1.37,us,usc000tbfq,2020-07-10T19:17:28.358Z,"9km E of Challis, Idaho",earthquake,4.4,3.3,,,reviewed,us,us
+2014-12-01T05:57:37.030Z,35.0423,-111.7276,5,4.7,mww,,23,0.555,0.99,us,usb000t1hf,2020-07-22T19:27:53.406Z,"6km SSW of Kachina Village, Arizona",earthquake,3.5,1.8,,,reviewed,us,us
+2014-11-13T06:36:07.489Z,41.9009,-119.6224,0,4.6,ml,7,80.61,0.507,0.0742,nn,nn00467620,2020-05-02T03:27:49.480Z,"67km ESE of Lakeview, Oregon",earthquake,,3.4,0.31,7,reviewed,nn,nn
+2014-11-12T21:40:00.550Z,37.2713,-97.6206,4.03,4.9,mww,,31,0.135,0.23,us,usc000swru,2020-07-10T19:14:04.612Z,"13km S of Conway Springs, Kansas",earthquake,3.1,6.4,,,reviewed,us,us
+2014-11-07T08:05:54.864Z,41.8805,-119.6299,0,4.7,ml,6,76.98,0.502,0.1903,nn,nn00466648,2020-05-02T03:27:01.089Z,"68km ESE of Lakeview, Oregon",earthquake,,0,0.59,4,reviewed,nn,nn
+2014-11-06T08:34:46.519Z,41.9061,-119.6573,5.2,4.7,ml,7,78.33,0.481,0.1662,nn,nn00466441,2020-07-22T20:25:32.106Z,"65km ESE of Lakeview, Oregon",earthquake,,6.7,0.19,6,reviewed,nn,nn
+2014-11-05T07:23:04.418Z,41.9078,-119.6202,0.1,4.6,ml,6,78.37,0.508,0.1359,nn,nn00466248,2020-07-22T20:25:13.454Z,"67km ESE of Lakeview, Oregon",earthquake,,6.9,0.16,3,reviewed,nn,nn
+2014-09-15T22:01:13.120Z,30.5637,-114.2865,5.23,4.6,mb,,113,0.677,0.98,us,usb000scsi,2016-03-11T09:46:50.949Z,"73km SE of San Felipe, Mexico",earthquake,5.1,2.4,0.065,71,reviewed,us,us
+2014-09-15T18:40:05.650Z,30.6303,-114.2304,10,4.7,mb,,171,0.67,0.87,us,usb000scmn,2014-12-08T23:31:02.040Z,"73km SE of San Felipe, Mexico",earthquake,7,1.9,0.063,78,reviewed,us,us
+2014-09-15T18:37:16.550Z,30.8316,-113.8574,10,4.5,mb,,169,0.804,0.8,us,usb000sfxg,2014-12-08T23:31:02.040Z,"62km SSW of Puerto Penasco, Mexico",earthquake,5.3,1.9,0.27,4,reviewed,us,us
+2014-09-15T18:27:20.610Z,30.4209,-114.2749,10,5.4,mww,,123,0.789,0.99,us,usb000scmd,2016-03-12T02:34:29.568Z,"85km SE of San Felipe, Mexico",earthquake,6.7,1.8,,,reviewed,us,us
+2014-09-15T12:42:33.870Z,30.3355,-113.9963333,9.961,4.5,mh,0,269,1.016,4.12,ci,ci37268352,2016-03-11T09:46:49.665Z,"228km SSE of Estacion Coahuila, B.C., MX",earthquake,12,31.61,,0,reviewed,ci,ci
+2014-09-15T12:23:42.980Z,30.5825,-114.2381,10,4.9,mb,,80,0.695,1.33,us,usb000schm,2016-03-11T13:19:25.994Z,"75km SE of San Felipe, Mexico",earthquake,5.8,1.8,0.035,260,reviewed,us,us
+2014-09-15T06:50:09.170Z,30.5697,-114.2873,10,4.7,mb,,108,0.672,1.37,us,usb000scf6,2016-03-11T07:58:40.404Z,"73km SE of San Felipe, Mexico",earthquake,6,1.8,0.048,136,reviewed,us,us
+2014-08-24T10:20:44.070Z,38.2151667,-122.3123333,11.12,6.02,mw,369,28,0.03604,0.18,nc,nc72282711,2020-08-14T23:04:26.676Z,"South Napa",earthquake,0.11,0.15,,0,reviewed,nc,nc
+2014-08-10T18:46:17.970Z,27.6814,-111.6319,10,5.5,mww,,78,0.65,1.29,us,usb000s1qs,2015-01-30T06:50:12.322Z,"76km ENE of Santa Rosalia, Mexico",earthquake,,1.8,,,reviewed,us,us
+2014-07-22T06:50:25.470Z,25.8955,-110.4592,10,4.8,mwr,,136,1.791,1.04,us,usb000rw32,2014-10-17T21:12:15.000Z,"90km E of Loreto, Mexico",earthquake,,1.7,0.066,22,reviewed,us,us
+2014-07-05T16:59:34.090Z,34.2823333,-117.0266667,7.25,4.58,mw,188,32,,0.23,ci,ci15520985,2020-05-02T03:24:18.349Z,"11km NE of Running Springs, CA",earthquake,0.12,0.28,,6,reviewed,ci,ci
+2014-06-29T04:59:35.390Z,32.5822,-109.1682,6.44,5.3,mww,,54,1.169,0.69,us,usc000rnfe,2020-07-10T19:11:30.352Z,"50km WNW of Lordsburg, New Mexico",earthquake,,3.3,,,reviewed,us,us
+2014-04-13T00:04:39.000Z,44.62,-114.33,3.5,4.8,mwr,,,,1.43,us,usc000pi6d,2015-01-28T18:06:35.007Z,"15km NNW of Challis, Idaho",earthquake,,3.8,0.033,89,reviewed,mb,us
+2014-03-30T12:34:39.160Z,44.7721667,-110.6846667,5.62,4.83,mw,35,63,0.04763,0.25,uu,uu60061837,2018-12-19T23:43:31.300Z,"35km ENE of West Yellowstone, Montana",earthquake,0.41,0.79,,0,reviewed,uu,uu
+2014-03-29T04:09:42.170Z,33.9325,-117.9158333,5.09,5.1,mw,321,9,0.01443,0.24,ci,ci15481673,2020-09-23T01:46:38.086Z,"2km NW of Brea, CA",earthquake,0.1,0.21,,6,reviewed,ci,ci
+2014-03-22T00:58:09.440Z,30.44,-114.0633,12.5,5.3,mwr,,,,2.53,us,usc000nkku,2015-01-30T09:35:32.094Z,"98km SE of San Felipe, Mexico",earthquake,,3.4,0.033,87,reviewed,ecx,us
+2014-03-21T17:50:13.400Z,30.419,-114.062,14.71,4.6,mwr,,65,1.358,1.43,us,usc000nk1q,2014-05-24T00:54:38.000Z,"100km SE of San Felipe, Mexico",earthquake,,4,0.065,23,reviewed,us,us
+2014-03-21T17:37:13.140Z,30.4075,-114.0828,10.29,4.9,mwr,,95,1.348,1.46,us,usc000nk0p,2014-05-24T00:54:38.000Z,"99km SE of San Felipe, Mexico",earthquake,,1.6,0.055,32,reviewed,us,us
+2014-03-05T02:24:23.350Z,31.3228,-119.4094,7.2,4.6,mb,,176,1.921,0.67,us,usb000n1b3,2020-05-02T03:19:52.628Z,"246km SSW of Avalon, California",earthquake,,5,0.051,117,reviewed,us,us
+2014-01-20T08:38:37.120Z,27.6833,-105.7118,11.08,4.5,md,,110,0.746,1.18,us,usb000m4m7,2014-03-22T00:05:26.000Z,"29km SW of Naica, Mexico",earthquake,,3.1,,16,reviewed,us,unm
+2014-01-12T20:24:46.740Z,38.8135,-122.8161667,1.9,4.53,mw,103,25,0.01081,0.05,nc,nc72141176,2020-05-12T03:05:13.464Z,"6km NW of The Geysers, California",earthquake,0.08,0.14,,10,reviewed,nc,nc
+2013-12-26T06:15:06.060Z,27.8908,-111.9607,9.95,4.5,mwr,,117,0.62,1.01,us,usc000lrp1,2014-02-28T08:44:08.000Z,"71km NNE of Santa Rosalia, Mexico",earthquake,,3,0.053,,reviewed,us,us
+2013-12-23T16:45:49.310Z,25.7194,-66.6056,2.08,5.2,mwb,,48,5.896,0.85,us,usc000lqeg,2014-02-27T22:02:51.844Z,"North Atlantic Ocean",earthquake,,2.7,0.068,,reviewed,us,us
+2013-12-20T05:27:08.000Z,31.22,-115.908,6,4.8,mwr,,,,1.57,us,usc000lnnb,2020-05-02T03:16:46.352Z,"43km NNE of Camalu, Mexico",earthquake,,1.8,0.066,,reviewed,ecx,us
+2013-12-07T18:10:24.590Z,35.6073,-97.3863,8.44,4.5,mwr,,,,1.63,us,usb000ldeh,2020-07-10T18:25:56.038Z,"9km ESE of Edmond, Oklahoma",earthquake,,3.9,0.039,,reviewed,tul,us
+2013-10-21T15:55:27.050Z,30.0798,-113.5066,14.33,4.7,mb,,156,1.963,0.78,us,usb000khvv,2013-12-30T23:41:17.000Z,"80km WNW of La Libertad, Mexico",earthquake,,5.4,0.183,,reviewed,us,us
+2013-10-19T17:54:54.700Z,26.0913,-110.3209,9.45,6.6,mww,,44,1.98,1.1,us,usb000khbc,2020-07-10T18:20:12.984Z,"99km SW of Etchoropo, Mexico",earthquake,,3,,,reviewed,us,us
+2013-10-11T23:05:37.330Z,40.9835,-124.7498333,8.635,4.94,mw,124,214,0.4775,0.17,nc,nc72086051,2020-05-02T03:15:05.612Z,"53km WNW of Eureka, California",earthquake,0.43,0.95,,6,reviewed,nc,nc
+2013-10-04T11:19:01.190Z,27.8173,-105.642,8.16,4.7,mwr,,48,0.878,0.51,us,usb000k6cg,2015-01-31T03:27:57.531Z,"16km WSW of Naica, Mexico",earthquake,,4.3,0.047,,reviewed,us,us
+2013-09-21T13:16:33.080Z,42.9745,-109.128,76.2,4.8,mwr,,16,0.378,1.08,us,usb000jx4l,2019-12-28T00:30:54.205Z,"20km W of Fort Washakie, Wyoming",earthquake,,3.7,0.039,,reviewed,us,us
+2013-09-21T12:42:15.630Z,27.8448,-105.6603,10,4.8,mb,,41,0.906,0.57,us,usb000jx4h,2015-01-30T15:24:25.808Z,"17km W of Naica, Mexico",earthquake,,1.8,0.04,,reviewed,us,us
+2013-09-21T12:16:12.170Z,27.8013,-105.6794,10,5.4,mww,,41,0.862,0.54,us,usb000jx4c,2015-01-29T21:29:02.933Z,"20km WSW of Naica, Mexico",earthquake,,1.4,,,reviewed,us,us
+2013-09-15T09:23:41.820Z,27.7858,-105.7104,8.11,4.6,mwr,,41,0.848,1.22,us,usc000juue,2013-11-19T17:38:01.000Z,"23km WSW of Naica, Mexico",earthquake,,3.8,0.046,,reviewed,us,us
+2013-06-07T03:17:54.150Z,30.055,-114.161,10.2,4.7,mb,69,110,,1.11,us,usc000hhw4,2014-11-07T01:51:01.988Z,"124km SE of San Felipe, Mexico",earthquake,,2.7,,155,reviewed,us,us
+2013-05-29T14:38:03.410Z,34.4061667,-119.9198333,7.12,4.8,mw,37,63,,0.44,ci,ci15350729,2020-07-09T21:15:05.819Z,"6km W of Isla Vista, CA",earthquake,0.46,1.56,,6,reviewed,ci,ci
+2013-05-24T08:02:19.510Z,40.1795,-121.0781667,3.65,4.86,ml,30,136,0.08539,0.09,nc,nc71997821,2020-05-02T03:13:04.315Z,"1km NNW of Canyondam, CA",earthquake,0.32,1.13,0.162,84,reviewed,nc,nc
+2013-05-24T03:47:08.180Z,40.1918333,-121.0595,7.968,5.69,mw,32,69,0.08649,0.08,nc,nc71996906,2020-07-10T14:24:39.433Z,"10km WNW of Greenville, California",earthquake,0.26,0.68,,5,reviewed,nc,nc
+2013-05-17T13:43:24.440Z,45.7568333,-76.3533333,13,5.06,ml,17,141,,0.2,ld,ld60040526,2017-10-11T20:32:46.626Z,"19km NNE of Shawville, Canada",earthquake,0.37,31.61,0.32,28,reviewed,ld,ld
+2013-03-11T16:56:06.060Z,33.5008333,-116.4581667,10.943,4.7,mh,110,16,0.03525,0.22,ci,ci15296281,2020-05-02T03:10:15.508Z,"21km ESE of Anza, CA",earthquake,0.14,0.32,,0,reviewed,ci,ci
+2013-02-13T00:10:14.393Z,38.0222,-118.0553,7.5,5.1,ml,29,81.88,0.206,0.1391,nn,nn00402688,2018-06-29T22:33:47.366Z,"72km W of Tonopah, Nevada",earthquake,,2.6,0.33,4,reviewed,nn,nn
+2013-01-13T17:50:13.000Z,25.773,-110.126,10,5.4,mwc,268,123.9,,1.4,us,usp000jycm,2015-03-24T02:25:53.541Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2013-01-13T16:28:26.220Z,25.891,-110.103,10,5.7,mww,429,60.1,,1.03,us,usp000jyce,2020-09-21T18:36:56.779Z,"Gulf of California",earthquake,,,,,reviewed,us,us
+2012-12-21T19:24:55.140Z,27.412,-111.6,15.8,4.5,mb,226,97.5,,1.46,us,usp000jx83,2015-03-24T01:36:39.123Z,"Gulf of California",earthquake,,9.3,,94,reviewed,us,us
+2012-12-14T10:36:01.590Z,31.095,-119.66,13,6.3,mww,760,20.9,,1.29,us,usp000jwyb,2020-05-06T09:28:04.095Z,"off the west coast of Baja California",earthquake,,,,,reviewed,us,us
+2012-10-21T06:55:09.510Z,36.3096667,-120.856,8.619,5.29,mw,100,68,0.06126,0.13,nc,nc71863625,2019-05-07T21:38:43.890Z,"Central California",earthquake,0.17,0.42,,5,reviewed,nc,nc
+2012-10-16T23:12:25.080Z,43.5973333,-70.656,16.09,4.67,ml,27,116,,0.27,ld,ld60036706,2020-07-10T14:11:25.617Z,"Maine",earthquake,0.47,0.79,0.15,42,reviewed,ld,ld
+2012-10-13T20:41:27.000Z,25.162,-113.055,8.7,4.5,mb,225,130.3,,,us,usp000jty8,2014-11-07T01:49:05.083Z,"offshore Baja California Sur, Mexico",earthquake,,,,112,reviewed,unm,us
+2012-10-08T06:26:23.020Z,25.127,-109.574,14,5.9,mww,520,35.8,,1.11,us,usp000jtqn,2015-06-30T16:59:04.003Z,"Gulf of California",earthquake,,,,,reviewed,us,us
+2012-09-28T15:24:51.000Z,24.84,-110.25,10,4.6,mb,166,106.8,,,us,usp000jt62,2015-03-24T01:32:57.672Z,"Baja California Sur, Mexico",earthquake,,,,86,reviewed,unm,us
+2012-09-26T00:17:54.060Z,24.627,-110.25,10,4.9,mb,294,70.7,,0.89,us,usp000jsz6,2015-03-24T02:20:57.144Z,"Baja California Sur, Mexico",earthquake,,,,173,reviewed,us,us
+2012-09-25T23:45:24.940Z,24.666,-110.173,10,6.3,mww,659,25.7,,1,us,usp000jsz4,2020-09-21T18:24:36.158Z,"Baja California Sur, Mexico",earthquake,,,,,reviewed,us,us
+2012-09-25T15:15:09.890Z,39.1678333,-123.1658333,10.841,4.51,mw,92,30,0.1117,0.16,nc,nc71847715,2020-05-02T03:06:37.304Z,"Northern California",earthquake,0.15,0.33,,6,reviewed,nc,nc
+2012-08-28T13:18:58.970Z,30.357,-113.997,10,4.5,mwr,121,146.2,,1.31,us,usp000jqzs,2014-11-07T01:48:39.048Z,"Gulf of California",earthquake,,,,,reviewed,us,us
+2012-08-27T23:16:00.510Z,30.545,-113.909,10,5.2,mwr,355,99.9,,1.4,us,usp000jqya,2015-03-24T01:32:20.647Z,"Gulf of California",earthquake,,,,,reviewed,us,us
+2012-08-27T05:23:20.340Z,30.551,-113.89,10,5.2,mb,428,80.8,,1.32,us,usp000jqw2,2015-03-24T01:32:19.353Z,"Gulf of California",earthquake,,,,226,reviewed,us,us
+2012-08-27T04:41:37.000Z,33.0211667,-115.5195,4.17,4.93,mw,40,82,0.04196,0.21,ci,ci15202921,2020-07-09T21:14:42.321Z,"5km NNE of Brawley, CA",earthquake,0.42,0.64,,6,reviewed,ci,ci
+2012-08-26T23:33:25.130Z,33.028,-115.5305,7.47,4.63,mw,62,82,0.04411,0.22,ci,ci15201537,2020-07-09T21:14:31.457Z,"6km N of Brawley, CA",earthquake,0.26,0.63,,6,reviewed,ci,ci
+2012-08-26T20:57:58.220Z,33.0185,-115.5403333,8.283,5.41,mw,47,47,0.0329,0.16,ci,ci15200401,2020-07-09T21:14:09.065Z,"4km NNW of Brawley, CA",earthquake,0.3,0.66,,6,reviewed,ci,ci
+2012-08-26T19:33:01.090Z,33.0135,-115.5591667,4.387,4.89,mw,50,75,0.02933,0.17,ci,ci15199689,2020-07-09T21:13:58.229Z,"5km NW of Brawley, CA",earthquake,0.29,0.47,,6,reviewed,ci,ci
+2012-08-26T19:31:23.040Z,33.0171667,-115.5536667,8.323,5.32,mw,56,73,0.03163,0.21,ci,ci15199681,2020-07-09T21:13:46.629Z,"5km NNW of Brawley, CA",earthquake,0.32,0.72,,6,reviewed,ci,ci
+2012-08-26T19:20:04.810Z,33.0158333,-115.5363333,4.79,4.59,mw,23,87,0.03107,0.12,ci,ci15199593,2020-05-02T03:01:48.823Z,"4km N of Brawley, CA",earthquake,0.39,0.48,,6,reviewed,ci,ci
+2012-08-02T22:13:18.610Z,24.999,-109.391,10,4.8,mb,270,162.3,,1.29,us,usp000jpt4,2015-03-24T02:27:06.478Z,"Gulf of California",earthquake,,,,206,reviewed,us,us
+2012-07-01T06:36:06.350Z,32.2131667,-115.2886667,9.641,4.68,mw,14,189,0.2062,0.22,ci,ci11129914,2020-05-02T02:59:43.160Z,"11km W of Alberto Oviedo Mota, B.C., MX",earthquake,1.24,31.61,,6,reviewed,ci,ci
+2012-07-01T03:25:20.450Z,32.2071667,-115.3431667,2.821,4.64,mw,10,187,0.2142,0.24,ci,ci11129826,2020-08-17T21:06:05.279Z,"16km W of Alberto Oviedo Mota, B.C., MX",earthquake,1.26,8.28,,0,reviewed,ci,ci
+2012-05-17T08:12:00.990Z,31.926,-94.369,5,4.8,mwr,300,18.3,,1.24,us,usp000jkhb,2020-09-21T18:10:06.170Z,"eastern Texas",earthquake,,,,,reviewed,us,us
+2012-04-18T10:03:06.290Z,26.882,-111.447,10,4.5,mb,26,142.4,,1.29,us,usp000jj66,2014-11-07T01:47:33.900Z,"Baja California Sur, Mexico",earthquake,,,,4,reviewed,us,us
+2012-04-12T10:26:55.430Z,28.714,-113.07,10,4.9,mb,336,106,,1.12,us,usp000jhrq,2015-03-24T01:28:17.411Z,"Baja California, Mexico",earthquake,,,,169,reviewed,us,us
+2012-04-12T07:15:48.500Z,28.696,-113.104,13,7,mww,474,95.9,,1.18,us,usp000jhr6,2020-09-21T18:04:24.284Z,"Baja California, Mexico",earthquake,,,,,reviewed,us,us
+2012-04-12T07:12:43.380Z,28.723,-113.146,10,4.9,mb,69,107.6,,1.45,us,usp000jhr4,2014-11-07T01:47:29.941Z,"Baja California, Mexico",earthquake,,,,52,reviewed,us,us
+2012-04-12T07:06:00.570Z,28.837,-113.027,9,6,mwb,397,102.9,,1.15,us,usp000jhr3,2020-09-21T18:04:08.768Z,"Baja California, Mexico",earthquake,,,,,reviewed,us,us
+2012-04-12T06:48:37.820Z,28.682,-113.084,10,4.7,mb,236,107,,1.27,us,usp000jhr1,2014-11-07T01:47:29.856Z,"Baja California, Mexico",earthquake,,,,123,reviewed,us,us
+2012-04-12T02:29:39.270Z,41.927,-65.762,18,4.5,mb,218,76.6,,,us,usp000jhq9,2015-03-24T01:28:14.676Z,"North Atlantic Ocean",earthquake,,,,97,reviewed,ott,us
+2012-02-14T10:09:28.440Z,32.1991667,-115.2085,9.963,4.87,mw,17,244,0.2344,0.31,ci,ci11066877,2020-07-09T21:10:53.546Z,"5km SW of Alberto Oviedo Mota, B.C., MX",earthquake,2.8,31.61,,0,reviewed,ci,ci
+2012-02-13T21:07:02.770Z,41.1431667,-123.7903333,27.358,5.6,mw,41,72,0.1766,0.27,nc,nc71734741,2020-07-10T14:24:14.907Z,"Northern California",earthquake,0.43,1.19,,4,reviewed,nc,nc
+2012-01-22T00:39:51.110Z,30.289,-114.141,10,4.6,mb,157,108.4,,1.43,us,usp000jdtn,2014-11-07T01:46:49.271Z,"Baja California, Mexico",earthquake,,,,83,reviewed,us,us
+2011-12-23T12:32:40.660Z,30.603,-113.974,10,4.9,mwc,158,134.7,,1.29,us,usp000jcj9,2015-03-24T01:24:07.699Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2011-12-04T15:35:37.860Z,26.006,-111.811,10,5.2,mwc,395,86.1,,0.96,us,usp000jbtq,2015-03-24T01:58:12.355Z,"Baja California Sur, Mexico",earthquake,,,,,reviewed,us,gcmt
+2011-11-18T13:09:00.980Z,48.4693333,-119.6075,11.168,4.6,md,21,121,0.2138,0.26,uw,uw10831488,2017-04-02T01:41:47.861Z,"Washington",earthquake,0.87,0.94,0.04,21,reviewed,uw,uw
+2011-11-08T02:46:57.000Z,35.531,-96.788,5,4.8,mwr,342,19.2,,,us,usp000jajb,2020-07-08T02:35:58.245Z,"Oklahoma",earthquake,,,,,reviewed,tul,us
+2011-11-06T03:53:10.000Z,35.532,-96.765,5.2,5.7,mww,474,17.1,,,us,usp000jadn,2020-07-08T02:35:37.435Z,"Oklahoma",earthquake,,,,,reviewed,tul,us
+2011-11-05T07:12:45.000Z,35.55,-96.764,3.1,4.8,mwr,322,17.2,,,us,usp000jac0,2020-09-21T17:49:56.588Z,"Oklahoma",earthquake,,,,,reviewed,tul,us
+2011-10-27T06:37:09.340Z,39.6055,-120.4715,11.974,4.73,mw,30,56,0.01892,0.07,nc,nc71671056,2020-05-02T02:53:06.899Z,"Northern California",earthquake,0.24,0.49,,9,reviewed,nc,nc
+2011-10-20T12:24:41.600Z,28.865,-98.079,5,4.8,mwr,220,30.6,,1.23,us,usp000j9kx,2020-04-10T20:48:05.694Z,"southern Texas",earthquake,,,,,reviewed,us,us
+2011-10-03T22:36:32.390Z,31.157,-65.065,10,4.5,mb,109,66.5,,1.31,us,usp000j8w6,2014-11-07T01:46:02.825Z,"Bermuda region",earthquake,,,,44,reviewed,us,us
+2011-10-01T07:07:00.547Z,38.8967,-118.7657,3.9,4.8,ml,26,103.47,0.329,0.1538,nn,nn00349954,2020-05-21T01:34:58.958Z,"Nevada",earthquake,,3.1,0.37,11,reviewed,nn,nn
+2011-09-10T22:07:28.950Z,28.094,-112.141,10,4.9,mwc,201,71.4,,1.41,us,usp000j7wf,2014-11-07T01:45:52.604Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2011-09-05T16:58:01.460Z,25.013,-106.715,10,4.5,mb,161,74.9,,1.29,us,usp000j7nj,2015-03-24T02:05:59.345Z,"Durango, Mexico",earthquake,,,,73,reviewed,us,us
+2011-08-27T07:18:21.150Z,36.5843333,-121.1808333,7.5,4.64,mw,97,31,0.08108,0.08,nc,nc71627835,2020-05-02T02:50:33.967Z,"Central California",earthquake,0.11,0.3,,5,reviewed,nc,nc
+2011-08-25T05:07:52.290Z,37.9468333,-77.9671667,6.81,4.5,mlg,26,76,,0.51,se,se609218,2020-07-10T14:36:30.550Z,"9km SSE of Louisa, Virginia",earthquake,1.4,1.3,1.642,4,reviewed,se,se
+2011-08-23T17:51:04.250Z,37.9096667,-77.9363333,6,5.8,mw,23,80,,0.48,se,se609212,2020-09-19T08:36:16.079Z,"14km SSE of Louisa, Virginia",earthquake,1.9,2.4,,0,reviewed,se,se
+2011-08-23T05:46:18.250Z,37.063,-104.701,4,5.3,mwr,187,26,,0.98,us,usp000j6wm,2020-08-14T22:05:15.106Z,"Colorado",earthquake,,1.8,,,reviewed,us,us
+2011-08-22T23:30:19.870Z,37.032,-104.554,5,4.7,mwr,243,15.4,,1.23,us,usp000j6w4,2020-04-16T16:40:47.288Z,"Colorado",earthquake,,,,,reviewed,us,us
+2011-07-26T19:40:27.590Z,24.957,-109.533,12.6,5.1,mwc,348,46.3,,1.14,us,usp000j5hx,2015-03-24T01:19:25.384Z,"Gulf of California",earthquake,,6.3,,,reviewed,us,gcmt
+2011-07-26T17:44:20.380Z,25.101,-109.525,12,6,mww,379,81.3,,1.19,us,usp000j5hr,2015-06-30T16:59:03.875Z,"Gulf of California",earthquake,,,,,reviewed,us,us
+2011-05-24T19:01:42.590Z,27.585,-111.563,10,5.1,mwc,167,87.5,,1.37,us,usp000j25c,2015-03-24T01:17:44.977Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2011-04-30T01:07:16.820Z,30.758,-105.751,10,4.6,md,30,131.4,,0.72,us,usp000j0sp,2014-11-07T01:44:39.334Z,"Chihuahua, Mexico",earthquake,,,,,reviewed,us,unm
+2011-04-29T22:31:58.310Z,28.738,-113.125,10,5.2,mwr,267,80.4,,1.42,us,usp000j0sj,2014-11-07T01:44:39.305Z,"Baja California, Mexico",earthquake,,,,,reviewed,us,us
+2011-04-26T21:10:25.610Z,27.463,-111.533,11.2,5.3,mww,238,85,,1.36,us,usp000j0na,2015-03-24T01:16:59.712Z,"Gulf of California",earthquake,,7.8,,,reviewed,us,us
+2011-04-20T18:21:44.420Z,27.424,-111.367,10,5,mwc,137,94.2,,1.47,us,usp000j0au,2015-03-24T02:08:15.352Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2011-04-18T15:38:03.890Z,32.461,-65.597,10,4.6,mb,74,77.7,,0.85,us,usp000j06z,2015-03-24T01:45:55.637Z,"Bermuda region",earthquake,,6.7,,46,reviewed,us,us
+2011-04-17T00:45:37.080Z,38.3891,-118.7433,5.1,4.6,ml,33,56.28,0.295,0.1647,nn,nn00424006,2018-06-28T20:54:38.942Z,"17km SW of Hawthorne, Nevada",earthquake,,3.4,0.29,8,reviewed,nn,nn
+2011-03-24T19:06:17.920Z,24.993,-109.682,27.9,4.6,mb,29,114.2,,0.9,us,usp000hygp,2014-11-07T01:44:19.293Z,"Gulf of California",earthquake,,16.6,,10,reviewed,us,us
+2011-03-24T17:25:32.730Z,25.295,-110.065,10,4.8,mb,75,70.4,,1.25,us,usp000hygc,2014-11-07T01:44:19.263Z,"Gulf of California",earthquake,,,,52,reviewed,us,us
+2011-03-18T01:44:12.360Z,25.399,-109.687,10,4.5,mb,122,64.4,,1.38,us,usp000hxrt,2014-11-07T01:44:13.025Z,"Gulf of California",earthquake,,,,71,reviewed,us,us
+2011-03-13T16:07:34.890Z,25.324,-109.773,10,4.6,mb,142,110.5,,1.11,us,usp000hwxf,2015-03-24T01:15:37.264Z,"Gulf of California",earthquake,,,,78,reviewed,us,us
+2011-03-13T08:35:32.750Z,25.33,-109.521,10,5,mwc,30,147.1,,1.28,us,usp000hwts,2014-11-07T01:44:04.984Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2011-03-13T02:50:07.950Z,25.298,-109.767,10,4.6,mb,139,89.2,,1.19,us,usp000hwqx,2014-11-07T01:44:04.364Z,"Gulf of California",earthquake,,,,64,reviewed,us,us
+2011-03-12T21:58:38.300Z,25.236,-109.815,10,4.5,mb,85,122,,1.29,us,usp000hwmg,2014-11-07T01:44:03.584Z,"Gulf of California",earthquake,,,,43,reviewed,us,us
+2011-03-12T20:16:56.320Z,25.331,-109.465,10,5,mwc,77,136.1,,1.43,us,usp000hwkf,2015-03-24T01:15:35.913Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2011-03-12T17:54:15.370Z,25.391,-109.719,10,4.7,mb,128,117.8,,1.48,us,usp000hwjc,2014-11-07T01:44:03.186Z,"Gulf of California",earthquake,,,,93,reviewed,us,us
+2011-03-12T17:13:00.590Z,25.379,-109.695,10,5.2,mwc,182,110.9,,1.41,us,usp000hwj1,2014-11-07T01:44:03.077Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2011-03-12T14:42:44.250Z,25.25,-109.544,10,4.5,mb,40,134.5,,1.38,us,usp000hwgp,2014-11-07T01:44:02.841Z,"Gulf of California",earthquake,,,,8,reviewed,us,us
+2011-03-12T14:11:03.020Z,25.317,-109.738,10,5.4,mwc,193,53.8,,1.32,us,usp000hwgf,2015-03-24T01:15:34.521Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2011-03-12T13:25:59.840Z,25.209,-109.82,12.6,5.6,mwc,145,118.6,,1.36,us,usp000hwfy,2015-05-13T18:53:59.000Z,"Gulf of California",earthquake,,15.1,,,reviewed,us,gcmt
+2011-03-12T12:53:23.430Z,25.165,-109.894,10,4.6,mb,46,75.3,,1.18,us,usp000hwfn,2014-11-07T01:44:02.443Z,"Gulf of California",earthquake,,,,43,reviewed,us,us
+2011-03-12T12:03:41.140Z,25.138,-109.793,10,4.5,mb,117,110.7,,1.2,us,usp000hwf0,2014-11-07T01:44:02.350Z,"Gulf of California",earthquake,,,,68,reviewed,us,us
+2011-02-28T05:00:50.240Z,35.2686667,-92.3545,3.16,4.7,mw,19,54,,0.21,nm,nm608509,2020-07-10T14:27:20.836Z,"4km NE of Greenbrier, Arkansas",earthquake,0.5,0.4,1.334,2,reviewed,nm,nm
+2011-02-20T19:34:39.980Z,32.0468333,-115.2518333,9.908,4.5,mw,5,310,0.3743,0.18,ci,ci14937988,2020-05-02T02:44:26.830Z,"22km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,1.58,31.61,,0,reviewed,ci,ci
+2011-02-18T17:47:35.770Z,32.047,-115.0621667,14.929,5.09,mw,11,270,0.4246,0.26,ci,ci14937372,2020-07-07T22:07:48.214Z,"17km SSW of Estacion Coahuila, B.C., MX",earthquake,3.98,31.61,,7,reviewed,ci,ci
+2011-01-26T00:11:28.000Z,31.236,-115.653,5,4.5,mb,55,181.9,,,us,usp000htnp,2016-03-14T20:12:39.979Z,"Baja California, Mexico",earthquake,,,,1,reviewed,ecx,us
+2011-01-12T08:51:03.680Z,36.7711667,-121.4963333,7.661,4.5,mw,134,35,0.01802,0.19,nc,nc71508850,2020-05-02T02:42:59.011Z,"Central California",earthquake,0.15,0.28,,16,reviewed,nc,nc
+2011-01-12T02:38:13.600Z,27.01,-111.414,10,5,mwc,99,135.1,,1.35,us,usp000hsy7,2015-03-24T01:14:20.872Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2011-01-11T16:15:35.350Z,27.149,-111.546,10,4.5,mb,28,98.1,,1.2,us,usp000hsxh,2014-11-07T01:43:25.461Z,"Gulf of California",earthquake,,,,19,reviewed,us,us
+2011-01-03T18:11:20.680Z,25.912,-110.558,10,5,mwc,37,84.4,,1.34,us,usp000hshu,2014-11-07T01:43:21.029Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2011-01-03T12:06:36.860Z,38.2471667,-112.3451667,11.09,4.56,ml,23,47,0.2414,0.23,uu,uu50419770,2019-06-28T18:48:46.938Z,"Utah",earthquake,0.49,1.02,,12,reviewed,uu,uu
+2010-12-11T12:52:26.310Z,32.1633333,-115.2638333,13.005,4.71,mw,13,250,0.2578,0.18,ci,ci14895612,2020-07-07T22:07:32.645Z,"11km SW of Alberto Oviedo Mota, B.C., MX",earthquake,2.48,1.12,,6,reviewed,ci,ci
+2010-12-04T23:56:23.590Z,25.433,-109.904,11.7,5,mwc,218,61.5,,1.27,us,usp000hqhd,2016-11-10T02:36:59.225Z,"Gulf of California",earthquake,,5.5,,,reviewed,us,gcmt
+2010-11-04T19:39:59.550Z,32.8645,-115.9973333,13.146,4.57,ml,64,39,0.03251,0.25,ci,ci10832573,2020-05-02T02:40:46.498Z,"14km N of Ocotillo, CA",earthquake,0.26,0.58,0.146,196,reviewed,ci,ci
+2010-10-21T17:59:00.640Z,24.752,-109.26,10,5.3,mb,41,103.7,,1.32,us,usp000hncn,2014-11-07T01:42:44.593Z,"Gulf of California",earthquake,,,,2,reviewed,us,us
+2010-10-21T17:53:13.570Z,24.696,-109.156,13,6.7,mwc,352,50.3,,1.21,us,usp000hncm,2020-09-21T17:03:03.915Z,"Gulf of California",earthquake,,,,,reviewed,us,us
+2010-10-21T14:26:38.130Z,24.631,-109.186,2.6,4.9,mwc,134,84.7,,1.12,us,usp000hnce,2016-11-10T02:35:05.051Z,"Gulf of California",earthquake,,7.4,,,reviewed,us,gcmt
+2010-10-20T03:39:28.950Z,24.722,-108.892,10,4.9,mwc,146,91.2,,1.4,us,usp000hnah,2016-11-10T02:34:57.250Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2010-09-20T00:30:02.400Z,32.0261667,-115.1083333,9.939,4.75,mw,9,272,0.4261,0.22,ci,ci14844244,2020-05-02T02:39:12.390Z,"21km SSW of Estacion Coahuila, B.C., MX",earthquake,4.9,31.61,,0,reviewed,ci,ci
+2010-09-15T07:50:07.130Z,29.787,-114.141,10,5.3,mwc,270,78.1,,1.47,us,usp000hkrd,2016-11-10T02:33:10.619Z,"Baja California, Mexico",earthquake,,,,,reviewed,us,gcmt
+2010-09-14T10:52:18.000Z,32.0485,-115.1981667,9.939,4.96,mw,12,263,0.3808,0.21,ci,ci10798005,2020-07-07T22:03:07.617Z,"20km S of Alberto Oviedo Mota, B.C., MX",earthquake,1.95,31.61,,0,reviewed,ci,ci
+2010-08-05T00:04:17.860Z,43.596,-110.391,5,4.8,mwr,120,24.6,,0.97,us,usp000hhj8,2015-03-24T01:38:53.208Z,"Wyoming",earthquake,,,,,reviewed,us,us
+2010-07-07T23:53:33.480Z,33.4173333,-116.4746667,12.318,5.42,mw,112,19,0.09786,0.23,ci,ci10736069,2020-07-07T22:02:51.695Z,"20km NNW of Borrego Springs, CA",earthquake,0.16,0.35,,7,reviewed,ci,ci
+2010-06-23T17:41:42.700Z,45.8835,-75.475,18.89,5.35,ml,56,82,,0.28,ld,ld2010062300,2020-07-07T22:28:54.129Z,"Ontario-Quebec border region, Canada",earthquake,0.25,0.31,0.2,,reviewed,ld,ld
+2010-06-15T04:26:58.240Z,32.705,-115.9113333,8.756,5.71,mw,45,71,0.05832,0.2,ci,ci14745580,2020-07-07T22:07:16.775Z,"8km ESE of Ocotillo, CA",earthquake,0.41,0.83,,6,reviewed,ci,ci
+2010-05-26T19:39:29.120Z,25.498,-109.829,10,4.8,mwc,26,128.3,,1.24,us,usp000hd75,2016-11-10T02:28:43.094Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2010-05-22T17:33:17.900Z,32.6243333,-115.7683333,7.493,4.6,mw,32,131,0.04329,0.14,ci,ci14718764,2020-05-02T02:32:44.610Z,"18km WNW of Progreso, B.C., MX",earthquake,0.56,0.76,,6,reviewed,ci,ci
+2010-05-22T17:30:58.170Z,32.6168333,-115.7563333,8.073,4.9,mw,38,132,0.0411,0.17,ci,ci14718756,2020-07-07T22:07:01.376Z,"17km WNW of Progreso, B.C., MX",earthquake,0.54,0.69,,0,reviewed,ci,ci
+2010-05-19T00:38:59.780Z,32.6601667,-115.8253333,8.913,4.53,mw,32,80,0.008128,0.18,ci,ci10671989,2020-05-02T02:31:39.743Z,"18km ESE of Ocotillo, CA",earthquake,0.55,0.61,,0,reviewed,ci,ci
+2010-05-11T23:08:28.010Z,27.763,-115.23,10,4.5,mb,96,91.6,,1.16,us,usp000hcn8,2014-11-07T01:41:28.820Z,"offshore Baja California Sur, Mexico",earthquake,,,,48,reviewed,us,us
+2010-05-09T10:42:52.970Z,27.674,-115.191,10,4.8,mb,271,127.8,,1.25,us,usp000hcht,2015-03-24T02:30:49.434Z,"offshore Baja California Sur, Mexico",earthquake,,,,122,reviewed,us,us
+2010-05-08T18:46:27.460Z,32.6755,-115.8101667,2.383,4.69,mw,43,88,0.02652,0.18,ci,ci10657549,2020-05-02T02:30:06.855Z,"18km ESE of Ocotillo, CA",earthquake,0.32,0.52,,6,reviewed,ci,ci
+2010-05-08T18:33:10.750Z,32.6815,-115.7971667,5.955,4.8,mw,54,97,0.02883,0.24,ci,ci10657533,2020-05-02T02:29:43.369Z,"19km ESE of Ocotillo, CA",earthquake,0.37,31.61,,0,reviewed,ci,ci
+2010-05-04T11:26:32.050Z,32.2636667,-115.2866667,14.059,4.68,ml,21,224,0.1562,0.26,ci,ci14692836,2020-05-02T02:28:57.766Z,"12km WNW of Alberto Oviedo Mota, B.C., MX",earthquake,1.56,1.04,0.156,193,reviewed,ci,ci
+2010-04-27T10:55:35.720Z,32.6921667,-115.8465,3.278,4.58,mw,43,56,0.02767,0.23,ci,ci14682004,2020-05-02T02:28:21.546Z,"14km ESE of Ocotillo, CA",earthquake,0.3,0.46,,6,reviewed,ci,ci
+2010-04-22T17:12:13.050Z,32.6595,-115.8075,5.315,4.63,ml,40,125,0.0165,0.21,ci,ci10629477,2020-05-02T02:28:02.410Z,"19km ESE of Ocotillo, CA",earthquake,0.41,0.34,0.133,408,reviewed,ci,ci
+2010-04-15T23:59:39.260Z,41.7133333,-111.094,10.16,4.89,ml,29,88,0.2638,0.21,uu,uu50407595,2019-05-14T15:46:06.802Z,"Utah",earthquake,0.52,1.26,,22,reviewed,uu,uu
+2010-04-15T23:59:38.000Z,41.703,-111.09,7.9,4.6,mwc,357,10.4,,,us,usp000hbfd,2016-11-10T02:27:09.570Z,"Utah",earthquake,,,,,reviewed,slc,gcmt
+2010-04-15T10:20:46.910Z,32.096,-115.0111667,16.603,4.73,mw,7,311,0.2135,0.08,ci,ci10612285,2020-05-02T02:26:27.049Z,"11km S of Estacion Coahuila, B.C., MX",earthquake,2.62,1.51,,6,reviewed,ci,ci
+2010-04-10T09:12:28.030Z,32.6753333,-115.7581667,9.715,4.5,mw,45,55,0.00853,0.2,ci,ci10597061,2020-05-02T02:25:25.798Z,"20km WNW of Progreso, B.C., MX",earthquake,0.35,0.52,,0,reviewed,ci,ci
+2010-04-09T23:05:42.000Z,32.1818333,-115.245,12.267,4.7,mw,21,247,0.187,0.16,ci,ci10595133,2020-07-07T22:02:37.768Z,"9km SW of Alberto Oviedo Mota, B.C., MX",earthquake,1.16,1.37,,0,reviewed,ci,ci
+2010-04-08T16:44:25.010Z,32.1646667,-115.2683333,9.985,5.29,mw,20,249,0.4901,0.2,ci,ci10589037,2020-05-02T02:23:57.804Z,"12km SW of Alberto Oviedo Mota, B.C., MX",earthquake,1.52,31.61,,6,reviewed,ci,ci
+2010-04-06T10:06:37.750Z,32.6651667,-115.8106667,1.733,4.51,ml,39,158,0.07283,0.23,ci,ci14618772,2020-05-02T02:21:35.809Z,"19km ESE of Ocotillo, CA",earthquake,0.46,0.67,0.13,209,reviewed,ci,ci
+2010-04-06T08:12:23.620Z,31.8315,-115.0126667,9.961,4.67,ml,9,289,0.8188,0.16,ci,ci14618236,2020-06-27T07:31:31.067Z,"40km S of Estacion Coahuila, B.C., MX",earthquake,5.92,31.61,0.152,273,reviewed,ci,ci
+2010-04-06T04:12:21.260Z,32.5936667,-115.7738333,3.983,4.56,ml,34,195,0.06844,0.23,ci,ci14617100,2020-05-02T02:20:50.331Z,"18km W of Progreso, B.C., MX",earthquake,0.45,0.53,0.132,174,reviewed,ci,ci
+2010-04-06T01:23:00.820Z,32.2151667,-115.0715,9.994,4.51,ml,7,263,0.5276,0.4,ci,ci14616380,2020-07-22T20:19:34.603Z,"7km WNW of Estacion Coahuila, B.C., MX",earthquake,4.77,31.61,0.229,189,reviewed,ci,ci
+2010-04-05T13:33:05.360Z,32.6401667,-115.8018333,0.002,4.73,mw,36,188,0.06431,0.23,ci,ci14613212,2020-07-07T22:06:47.566Z,"21km ESE of Ocotillo, CA",earthquake,0.51,0.83,,6,reviewed,ci,ci
+2010-04-05T11:14:14.890Z,32.6638333,-115.8088333,13.653,4.93,mw,37,160,0.07104,0.29,ci,ci14612516,2020-07-07T22:06:32.349Z,"19km ESE of Ocotillo, CA",earthquake,0.73,0.84,,0,reviewed,ci,ci
+2010-04-05T03:15:24.770Z,32.6465,-115.8055,1.243,4.96,ml,35,181,0.06681,0.21,ci,ci14609660,2020-06-27T07:28:33.434Z,"20km ESE of Ocotillo, CA",earthquake,0.71,0.9,0.142,178,reviewed,ci,ci
+2010-04-05T02:47:27.410Z,32.2851667,-115.3025,10.003,4.51,ml,15,239,0.5262,0.19,ci,ci30389759,2020-06-27T07:25:08.642Z,"13km SW of Delta, B.C., MX",earthquake,1.36,31.61,0.169,198,reviewed,ci,ci
+2010-04-05T01:52:25.420Z,32.5933333,-115.7733333,4.085,4.68,ml,35,195,0.1369,0.23,ci,ci14608980,2017-02-08T01:33:20.320Z,"18km W of Progreso, B.C., MX",earthquake,0.64,0.67,0.159,74,reviewed,ci,ci
+2010-04-05T01:25:34.670Z,32.1445,-115.1148333,10.015,4.64,mw,9,302,0.7162,0.19,ci,ci30213759,2017-02-08T04:55:18.367Z,"11km SSE of Alberto Oviedo Mota, B.C., MX",earthquake,1.51,31.61,,0,reviewed,ci,ci
+2010-04-05T00:07:07.920Z,31.9788333,-115.1341667,9.994,5.22,ml,9,276,0.7555,0.38,ci,ci10148002,2017-02-08T15:04:04.653Z,"27km SSW of Estacion Coahuila, B.C., MX",earthquake,7.67,31.61,0.156,123,reviewed,ci,ci
+2010-04-04T23:37:33.490Z,32.4623333,-115.5978333,9.966,4.7,ml,22,244,0.2158,0.25,ci,ci14607972,2020-05-12T00:25:04.526Z,"13km S of Progreso, B.C., MX",earthquake,1.16,31.61,0.156,181,reviewed,ci,ci
+2010-04-04T23:25:07.190Z,32.2661667,-115.2925,9.987,5.38,mw,10,278,0.5296,0.3,ci,ci14607924,2017-02-08T01:18:09.568Z,"12km WNW of Alberto Oviedo Mota, B.C., MX",earthquake,3.12,31.61,,6,reviewed,ci,ci
+2010-04-04T23:17:13.080Z,32.2211667,-115.2906667,9.995,4.56,ml,8,259,0.5639,0.22,ci,ci10169094,2017-02-08T15:42:53.506Z,"11km W of Alberto Oviedo Mota, B.C., MX",earthquake,2.61,31.61,0.11,11,reviewed,ci,ci
+2010-04-04T23:15:14.240Z,32.3,-115.2595,9.987,5.43,mw,8,254,0.4955,0.23,ci,ci14607836,2017-02-08T01:12:37.767Z,"9km SW of Delta, B.C., MX",earthquake,1.8,31.61,,4,reviewed,ci,ci
+2010-04-04T23:09:40.110Z,32.204,-115.3328333,9.979,4.79,ml,9,284,0.6059,0.17,ci,ci14607820,2020-07-07T22:06:16.238Z,"16km W of Alberto Oviedo Mota, B.C., MX",earthquake,2.12,31.61,0.18,305,reviewed,ci,ci
+2010-04-04T22:50:17.120Z,32.0986667,-115.0481667,10.011,5.7,mw,5,296,0.7811,0.33,ci,ci31957759,2020-07-09T21:21:38.294Z,"12km SSW of Estacion Coahuila, B.C., MX",earthquake,3.14,31.61,,4,reviewed,ci,ci
+2010-04-04T22:43:00.430Z,32.4533333,-115.632,9.981,5.26,ml,16,239,0.3162,0.26,ci,ci10184394,2017-02-08T15:33:36.578Z,"15km SSW of Progreso, B.C., MX",earthquake,1,31.61,0.11,13,reviewed,ci,ci
+2010-04-04T22:40:42.360Z,32.2861667,-115.2953333,9.987,7.2,mw,10,239,0.5137,0.11,ci,ci14607652,2020-09-20T02:21:46.077Z,"12km SW of Delta, B.C., MX",earthquake,1.81,31.61,,0,reviewed,ci,ci
+2010-03-30T09:14:10.460Z,31.276,-114.049,10,4.6,mb,38,160.6,,1.17,us,usp000ha4x,2014-11-07T01:41:06.521Z,"Baja California-Sonora border region, Mexico",earthquake,,,,8,reviewed,us,us
+2010-03-06T08:47:37.870Z,40.32,-124.733,12.543,4.5,mh,6,293,5.654,0.07,ci,ci14597412,2016-03-10T05:53:51.443Z,"49km SW of Ferndale, CA",earthquake,4.68,31.61,,0,reviewed,ci,ci
+2010-03-06T08:46:23.810Z,40.3198333,-124.7333333,12.397,4.53,mw,78,237,0.3324,0.12,nc,nc71359410,2020-05-02T02:16:54.006Z,"offshore Northern California",earthquake,0.39,0.42,,4,reviewed,nc,nc
+2010-02-04T20:20:21.970Z,40.4123333,-124.9613333,23.048,5.88,mw,41,233,0.4802,0.19,nc,nc71348851,2020-05-02T02:15:43.109Z,"61km WSW of Ferndale, California",earthquake,1.42,7.41,,7,reviewed,nc,nc
+2010-01-10T00:27:39.320Z,40.652,-124.6925,28.737,6.5,mw,51,220,0.3225,0.2,nc,nc71338066,2020-07-07T22:36:48.275Z,"offshore Northern California",earthquake,0.55,1.31,,8,reviewed,nc,nc
+2009-12-30T18:53:23.960Z,32.5323333,-115.2081667,5.986,4.77,ml,21,193,0.2792,0.34,ci,ci14565636,2020-07-07T22:05:21.405Z,"14km ESE of Puebla, B.C., MX",earthquake,1.75,31.61,0.12,302,reviewed,ci,ci
+2009-12-30T18:48:57.330Z,32.464,-115.1891667,5.971,5.8,mw,19,205,0.324,0.39,ci,ci14565620,2020-09-10T04:27:37.677Z,"12km N of Delta, B.C., MX",earthquake,1.83,31.61,,7,reviewed,ci,ci
+2009-12-21T08:53:10.170Z,28.939,-113.125,10,4.8,mwc,75,104.2,,1.39,us,usp000h587,2016-11-10T02:21:49.384Z,"Baja California, Mexico",earthquake,,,,,reviewed,us,gcmt
+2009-12-13T16:59:12.630Z,26.291,-110.559,10,5.1,mwc,79,83.5,,1.12,us,usp000h50m,2016-11-10T02:21:36.266Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2009-11-16T21:21:30.630Z,35.5485,-117.2745,1.248,4.6,ml,54,46,0.0771,0.23,ci,ci10497821,2020-05-02T02:11:57.058Z,"26km SSE of Trona, CA",earthquake,0.28,0.64,0.135,377,reviewed,ci,ci
+2009-10-26T09:56:58.800Z,25.512,-107.567,10,4.5,md,11,94,,,us,usp000h3e4,2014-11-07T01:39:58.618Z,"Sinaloa, Mexico",earthquake,,,,,reviewed,unm,unm
+2009-10-16T10:27:15.260Z,30.045,-113.931,10,4.6,mb,102,185.8,,1.14,us,usp000h328,2015-03-24T01:02:35.955Z,"Gulf of California",earthquake,,,,43,reviewed,us,us
+2009-10-14T02:53:13.160Z,30.301,-114.11,10,4.5,mb,57,152.1,,1.23,us,usp000h2xg,2015-03-24T02:08:11.490Z,"Baja California, Mexico",earthquake,,,,16,reviewed,us,us
+2009-10-08T06:01:07.360Z,30.061,-114.073,10,4.6,mb,135,99.5,,1.37,us,usp000h2jj,2014-11-07T01:39:53.769Z,"Baja California, Mexico",earthquake,,,,32,reviewed,us,us
+2009-10-08T04:45:47.930Z,30.07,-114.166,10,4.5,mb,18,245.1,,1.08,us,usp000h2jd,2014-11-07T01:39:53.747Z,"Baja California, Mexico",earthquake,,,,1,reviewed,us,us
+2009-10-08T04:10:51.650Z,30.284,-113.781,10,4.5,mb,20,196.1,,1.09,us,usp000h2j8,2014-11-07T01:39:53.723Z,"Gulf of California",earthquake,,,,1,reviewed,us,us
+2009-10-08T01:38:36.300Z,30.304,-114.031,10,4.7,mb,58,167.6,,1.26,us,usp000h2hp,2015-03-24T02:43:05.905Z,"Baja California, Mexico",earthquake,,,,9,reviewed,us,us
+2009-10-03T05:31:57.720Z,36.39,-117.8635,0.08,4.66,ml,36,51,0.1674,0.25,ci,ci14520476,2020-05-02T02:10:04.345Z,"18km NE of Olancha, CA",earthquake,0.37,0.9,0.131,399,reviewed,ci,ci
+2009-10-03T01:16:00.310Z,36.391,-117.8608333,-1.77,5.19,mw,36,50,0.1658,0.33,ci,ci14519780,2020-07-07T22:04:49.601Z,"18km NE of Olancha, CA",earthquake,0.46,1.22,,6,reviewed,ci,ci
+2009-10-03T01:10:26.100Z,36.3863333,-117.8681667,1.688,4.85,ml,23,52,0.172,0.28,ci,ci14519764,2020-05-02T02:08:47.387Z,"17km NE of Olancha, CA",earthquake,0.37,31.61,0.135,372,reviewed,ci,ci
+2009-10-03T01:09:19.140Z,36.391,-117.8638333,0.7,4.74,ml,36,51,0.1665,0.26,ci,ci14519756,2020-05-02T02:08:27.548Z,"18km NE of Olancha, CA",earthquake,0.42,0.95,0.164,185,reviewed,ci,ci
+2009-10-01T10:01:24.670Z,36.3878333,-117.8586667,3.985,5,mw,34,49,0.1683,0.32,ci,ci14517500,2020-05-02T02:08:06.584Z,"18km NE of Olancha, CA",earthquake,0.49,31.61,,0,reviewed,ci,ci
+2009-09-19T22:55:17.840Z,32.3706667,-115.2611667,9.987,5.08,mw,27,261,0.4352,0.42,ci,ci14512436,2020-07-07T22:04:35.058Z,"7km WNW of Delta, B.C., MX",earthquake,1.89,31.61,,5,reviewed,ci,ci
+2009-09-13T07:06:22.390Z,29.446,-113.599,10,5,mwc,169,171.2,,1.34,us,usp000h1g3,2016-11-10T02:17:12.172Z,"Baja California, Mexico",earthquake,,,,,reviewed,us,gcmt
+2009-08-07T10:49:34.720Z,40.3098333,-124.637,16.257,4.92,mw,32,232,0.2586,0.09,nc,nc71261376,2020-05-02T02:07:09.082Z,"offshore Northern California",earthquake,0.77,0.35,,6,reviewed,nc,nc
+2009-08-05T09:13:12.300Z,29.615,-113.789,10,5.8,mwc,223,47.8,,1.32,us,usp000h005,2016-11-10T02:15:45.318Z,"Baja California, Mexico",earthquake,,,,,reviewed,us,gcmt
+2009-08-03T18:40:50.100Z,29.31,-113.728,10,6.2,mwc,234,48,,1.28,us,usp000gzyf,2020-09-21T16:11:17.535Z,"Baja California, Mexico",earthquake,,,,,reviewed,us,gcmt
+2009-08-03T18:33:34.480Z,28.977,-113.019,10,4.9,mb,126,78.1,,1.32,us,usp000gzye,2014-11-07T01:39:26.924Z,"Baja California, Mexico",earthquake,,,,36,reviewed,us,us
+2009-08-03T18:07:39.190Z,29.045,-113.123,10,4.9,mb,25,109.7,,1.09,us,usp000gzyc,2014-11-07T01:39:26.906Z,"Baja California, Mexico",earthquake,,,,3,reviewed,us,us
+2009-08-03T17:59:56.170Z,29.039,-112.903,10,6.9,mwc,243,35,,1.29,us,usp000gzyb,2020-09-21T16:10:58.747Z,"Sonora, Mexico",earthquake,,,,,reviewed,us,gcmt
+2009-08-03T17:55:22.710Z,28.904,-112.997,10,5.5,mb,122,52.7,,1.36,us,usp000gzya,2015-05-13T18:53:56.000Z,"Gulf of California",earthquake,,,,38,reviewed,us,us
+2009-07-19T23:19:05.760Z,24.978,-109.425,10,4.9,md,81,125.2,,1.26,us,usp000gzf2,2014-11-07T01:39:20.577Z,"Gulf of California",earthquake,,,,,reviewed,us,unm
+2009-07-12T03:01:14.390Z,25.043,-106.679,33.9,5.1,mwc,185,82.2,,1.13,us,usp000gz5a,2016-11-10T02:14:34.510Z,"Durango, Mexico",earthquake,,8,,,reviewed,us,gcmt
+2009-07-03T20:30:35.400Z,25.226,-109.76,10,5.2,mwc,148,61.4,,1.01,us,usp000gyx8,2016-11-10T02:14:12.779Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2009-07-03T11:00:14.630Z,25.131,-109.754,10,6,mwc,211,56.2,,1.13,us,usp000gyws,2016-11-09T07:56:23.288Z,"Gulf of California",earthquake,,,,,reviewed,us,us
+2009-07-03T09:57:01.560Z,25.389,-109.687,10,5.3,mwc,167,103.6,,1.22,us,usp000gywk,2016-11-10T02:14:09.158Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2009-05-23T22:58:32.940Z,36.3961667,-117.8376667,-0.64,4.73,ml,38,52,0.1564,0.25,ci,ci14462064,2020-05-02T02:05:58.450Z,"20km NE of Olancha, CA",earthquake,0.38,0.94,0.138,385,reviewed,ci,ci
+2009-05-18T03:39:36.340Z,33.9376667,-118.3356667,13.817,4.7,mw,123,44,,0.34,ci,ci10410337,2020-07-07T22:02:07.174Z,"2km E of Lennox, CA",earthquake,0.29,0.49,,0,reviewed,ci,ci
+2009-03-24T11:55:43.930Z,33.3171667,-115.7281667,6.003,4.77,ml,77,37,0.03561,0.26,ci,ci14433456,2020-05-02T02:03:06.468Z,"4km S of Bombay Beach, CA",earthquake,0.28,1.34,0.127,346,reviewed,ci,ci
+2009-02-24T07:10:30.600Z,30.104,-114.348,4,4.6,mb,113,110.4,,,us,usp000gube,2015-03-24T00:58:38.295Z,"Baja California, Mexico",earthquake,,,,35,reviewed,ecx,us
+2009-01-30T13:25:03.760Z,47.7865,-122.5846667,62.24,4.67,ml,77,27,0.0526,0.52,uw,uw10763723,2017-04-04T16:48:38.483Z,"Seattle-Tacoma urban area, Washington",earthquake,0.83,0.99,0.188,144,reviewed,uw,uw
+2008-12-28T05:17:07.470Z,32.5681667,-115.5428333,10.01,4.52,ml,39,187,0.1748,0.91,ci,ci10368325,2020-07-07T22:01:52.236Z,"4km ESE of Progreso, B.C., MX",earthquake,2.92,31.61,0.15,375,reviewed,ci,ci
+2008-12-26T12:19:40.020Z,39.9598333,-120.8688333,-1.668,4.5,mw,46,93,0.08559,0.13,nc,nc51213957,2020-05-02T02:00:57.753Z,"3km NE of East Quincy, California",earthquake,0.27,1.21,,4,reviewed,nc,nc
+2008-12-06T04:18:42.850Z,34.8133333,-116.4188333,6.37,5.06,mw,48,65,0.07081,0.19,ci,ci14408052,2020-05-02T01:59:43.034Z,"26km WNW of Ludlow, CA",earthquake,0.21,0.78,,6,reviewed,ci,ci
+2008-11-20T19:23:00.190Z,32.3288333,-115.3318333,6.006,4.98,ml,29,228,0.4619,1.28,ci,ci14404512,2020-07-07T22:04:21.287Z,"13km WSW of Delta, B.C., MX",earthquake,4.32,31.61,0.129,246,reviewed,ci,ci
+2008-11-16T05:43:15.590Z,40.3138333,-124.6026667,18.887,4.6,mw,39,230,0.2342,0.11,nc,nc51211307,2020-05-02T01:57:41.687Z,"offshore Northern California",earthquake,0.86,0.35,,7,reviewed,nc,nc
+2008-11-15T09:02:45.300Z,25.687,-110.243,10,4.8,mwc,66,202,,1.37,us,usp000gnr6,2016-11-10T02:04:10.462Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2008-10-31T13:34:52.820Z,26.646,-110.927,10,4.9,mwc,56,155.2,,1.11,us,usp000gmgy,2016-11-10T02:03:27.465Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2008-10-26T09:27:22.340Z,40.3368333,-124.6288333,20.827,4.9,mw,22,231,0.2604,0.04,nc,nc71011617,2020-05-06T09:21:58.793Z,"offshore Northern California",earthquake,0.73,0.31,,5,reviewed,nc,nc
+2008-09-05T21:54:33.590Z,32.3468333,-115.2295,14.987,4.63,ml,26,225,0.4423,0.72,ci,ci10347253,2020-05-02T01:56:52.544Z,"4km WSW of Delta, B.C., MX",earthquake,2.4,31.61,0.118,245,reviewed,ci,ci
+2008-08-17T05:56:59.370Z,41.1885,-124.216,15.66,4.6,mw,15,172,0.1486,0.06,nc,nc51207076,2020-06-27T07:23:47.818Z,"offshore Northern California",earthquake,0.52,0.36,,10,reviewed,nc,nc
+2008-08-07T02:18:13.830Z,26.64,-111,10,5.5,mwc,149,107.9,,1.33,us,usp000ge0q,2016-11-10T01:59:46.024Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2008-07-29T18:42:15.670Z,33.9485,-117.7663333,15.503,5.44,mw,136,17,0.08724,0.3,ci,ci14383980,2020-09-20T02:18:26.482Z,"5km S of Chino Hills, CA",earthquake,0.19,0.52,,6,reviewed,ci,ci
+2008-05-14T16:09:52.930Z,30.25,-114.3,10,4.8,mwc,20,264.5,,1.14,us,usp000g6r2,2016-11-10T01:55:58.562Z,"Baja California, Mexico",earthquake,,,,,reviewed,us,gcmt
+2008-05-05T16:28:06.190Z,24.803,-109.577,10,4.9,mwc,71,268.7,,0.82,us,usp000g5je,2016-11-10T01:55:35.314Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2008-04-30T03:03:06.900Z,40.8358333,-123.4968333,27.755,5.4,mw,33,36,0.1829,0.14,nc,nc40216664,2020-06-27T07:10:04.169Z,"Northern California",earthquake,0.3,1.15,,8,reviewed,nc,nc
+2008-04-26T06:40:19.120Z,38.6103333,-119.1331667,3.535,4.7,mh,5,253,0.7747,0.51,ci,ci10320621,2016-03-09T08:33:55.984Z,"27km SE of Smith Valley, NV",earthquake,2.84,31.61,,0,reviewed,ci,ci
+2008-04-26T06:40:10.453Z,39.5231,-119.9393,2.8,5.1,ml,35,39.56,0.008,0.122,nn,nn00385392,2018-07-24T21:38:00.689Z,"1km NW of Mogul, Nevada",earthquake,,0.5,0.13,2,reviewed,nn,nn
+2008-04-26T06:39:59.648Z,39.5212,-119.9279,2.8,4.8,mw,40,38.3,0.002,0.104,nn,nn00242527,2017-06-19T19:32:57.740Z,"0km N of Mogul, Nevada",earthquake,,0.5,,,reviewed,nn,nn
+2008-04-18T15:14:17.210Z,38.4585,-87.8691667,15.46,4.7,mw,16,89,,0.28,nm,nm606669,2020-07-07T22:38:43.538Z,"10km WNW of Mount Carmel, Illinois",earthquake,0.8,0.9,,,reviewed,nm,nm
+2008-04-18T09:36:59.110Z,38.4515,-87.8861667,14.25,5.2,mw,16,86,,0.2,nm,nm606657,2020-10-08T04:34:06.867Z,"11km WNW of Mount Carmel, Illinois",earthquake,1.3,1.3,,,reviewed,nm,nm
+2008-02-22T23:27:45.133Z,41.1279,-114.9215,11,4.8,ml,10,132.34,0.021,0.1407,nn,nn00235053,2020-05-12T00:59:09.446Z,"3km ENE of Wells, Nevada",earthquake,,1.1,,,reviewed,nn,nn
+2008-02-22T19:33:52.140Z,32.3901667,-115.2698333,5.982,4.58,ml,18,263,0.4401,0.47,ci,ci12330895,2020-05-06T09:20:08.271Z,"8km WNW of Delta, B.C., MX",earthquake,1.46,31.61,0.218,40,reviewed,ci,ci
+2008-02-22T19:31:18.480Z,32.421,-115.2853333,6.001,4.78,ml,33,213,0.4067,0.46,ci,ci14352012,2020-05-02T01:51:53.786Z,"11km NW of Delta, B.C., MX",earthquake,1.21,31.61,0.117,233,reviewed,ci,ci
+2008-02-21T23:57:50.945Z,41.1463,-114.9313,13.2,4.6,mw,7,95.73,0.305,0.1012,nn,nn00234666,2020-05-12T00:57:54.888Z,"4km NNE of Wells, Nevada",earthquake,,11,,,reviewed,nn,nn
+2008-02-21T14:34:55.538Z,41.137,-114.8398,0,5.1,ml,7,138.75,0.322,0.3244,nn,nn00517570,2015-11-16T20:00:35.791Z,"10km ENE of Wells, Nevada",earthquake,2.95,,0.33,6,reviewed,nn,nn
+2008-02-21T14:20:51.446Z,41.1165,-114.9011,6.8,4.6,ml,16,92.55,0.284,0.282,nn,nn00235990,2018-07-24T21:26:05.673Z,"6km E of Wells, Nevada",earthquake,,2.6,0.32,11,reviewed,nn,nn
+2008-02-21T14:16:02.821Z,41.1444,-114.8721,7.9,5.9,mw,18,95.21,0.318,0.1855,nn,nn00234425,2020-07-10T14:27:31.804Z,"8km ENE of Wells, Nevada",earthquake,,1.9,,,reviewed,nn,nn
+2008-02-20T01:28:55.450Z,32.4261667,-115.3063333,6.001,4.83,ml,33,212,0.3962,0.53,ci,ci14351300,2020-05-02T01:51:23.250Z,"13km NW of Delta, B.C., MX",earthquake,1.52,31.61,0.117,256,reviewed,ci,ci
+2008-02-19T22:41:29.660Z,32.4325,-115.313,6.006,5.01,mw,32,210,0.3885,0.55,ci,ci14351140,2020-05-02T01:51:03.439Z,"14km NW of Delta, B.C., MX",earthquake,1.58,31.61,,6,reviewed,ci,ci
+2008-02-19T20:24:27.920Z,29.785,-114.063,10,5.1,mwc,64,188.2,,1.34,us,usp000fz8x,2016-11-10T01:52:02.388Z,"Baja California, Mexico",earthquake,,,,,reviewed,us,gcmt
+2008-02-19T19:00:31.300Z,29.199,-114.505,10,5,mwc,27,243.2,,1.1,us,usp000fz8s,2016-11-10T01:52:01.821Z,"Baja California, Mexico",earthquake,,,,,reviewed,us,gcmt
+2008-02-12T04:32:39.240Z,32.4475,-115.3175,6.018,4.97,mw,29,208,0.3731,0.44,ci,ci14348588,2020-06-27T06:53:23.253Z,"13km SSE of Puebla, B.C., MX",earthquake,1.47,31.61,,6,reviewed,ci,ci
+2008-02-11T18:29:30.530Z,32.3271667,-115.2568333,6.001,5.1,mw,28,228,0.5031,1.04,ci,ci14348196,2020-06-27T06:48:40.782Z,"7km WSW of Delta, B.C., MX",earthquake,4.91,31.61,,6,reviewed,ci,ci
+2008-02-09T07:12:04.550Z,32.3595,-115.2773333,6.001,5.1,mw,31,222,0.467,1.4,ci,ci14346868,2020-07-07T22:03:49.869Z,"8km W of Delta, B.C., MX",earthquake,5.62,31.61,,6,reviewed,ci,ci
+2008-01-19T23:13:05.430Z,40.1776667,-122.7036667,2.049,4.7,mw,36,32,0.03514,1.04,nc,nc51194936,2020-06-27T06:43:05.997Z,"Northern California",earthquake,1.14,2.24,,6,reviewed,nc,nc
+2008-01-19T17:18:46.470Z,40.1671667,-122.7593333,10.169,4.5,mw,31,37,0.05856,0.32,nc,nc51194914,2020-06-27T06:41:31.206Z,"Northern California",earthquake,0.47,0.68,,6,reviewed,nc,nc
+2007-12-27T20:51:57.490Z,27.679,-71.076,10,4.6,mb,84,68,,1.03,us,usp000fve1,2014-11-07T01:34:30.386Z,"off the east coast of the United States",earthquake,,,,39,reviewed,us,us
+2007-10-31T03:04:54.810Z,37.4335,-121.7743333,9.741,5.45,mw,156,50,0.02703,0.11,nc,nc40204628,2020-07-10T14:23:13.751Z,"San Francisco Bay area, California",earthquake,0.11,0.28,,6,reviewed,nc,nc
+2007-09-10T00:20:18.410Z,24.772,-109.732,10,5.1,mwc,120,102.4,,1.04,us,usp000fmtc,2016-11-10T01:45:05.662Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2007-09-02T17:29:14.790Z,33.7321667,-117.477,12.192,4.73,ml,136,54,,0.32,ci,ci10275733,2020-05-02T01:45:35.137Z,"13km NE of Trabuco Canyon, CA",earthquake,0.27,0.55,0.137,396,reviewed,ci,ci
+2007-09-02T11:04:46.550Z,24.615,-109.824,10,5.2,mwc,160,51,,0.98,us,usp000fm8h,2016-11-10T01:44:44.900Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2007-09-02T05:07:13.570Z,24.606,-109.905,10,4.5,mb,115,66.3,,1.21,us,usp000fm77,2015-03-24T02:32:34.215Z,"Gulf of California",earthquake,,,,36,reviewed,us,us
+2007-09-01T20:22:41.490Z,24.773,-110.232,10,4.6,mb,46,125.5,,1.1,us,usp000fm5z,2014-11-07T01:33:28.301Z,"Baja California Sur, Mexico",earthquake,,,,28,reviewed,us,us
+2007-09-01T19:38:17.280Z,24.697,-109.941,10,4.6,mb,95,59.5,,1.18,us,usp000fm5u,2014-11-07T01:33:28.226Z,"Gulf of California",earthquake,,,,47,reviewed,us,us
+2007-09-01T19:14:22.640Z,24.902,-109.689,9,6.1,mwc,278,35.9,,1.15,us,usp000fm5s,2016-11-10T01:44:41.327Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2007-08-20T12:38:09.020Z,24.743,-109.671,10,4.5,mb,108,98.3,,0.93,us,usp000fk9j,2014-11-07T01:33:19.765Z,"Gulf of California",earthquake,,,,54,reviewed,us,us
+2007-08-09T07:58:49.590Z,34.2995,-118.6195,7.062,4.66,ml,111,24,0.0442,0.3,ci,ci14312160,2020-05-02T01:45:08.516Z,"5km NNW of Chatsworth, CA",earthquake,0.24,1.05,0.177,355,reviewed,ci,ci
+2007-08-06T05:59:45.100Z,37.761,-114.339,3.368,4.5,mh,36,278,1.414,7.27,ci,ci14311588,2020-05-06T09:19:44.362Z,"22km NE of Caliente, NV",earthquake,25.81,31.61,,0,reviewed,ci,ci
+2007-06-25T02:32:24.620Z,41.1155,-124.8245,2.563,5,mw,213,213,0.6063,0.28,nc,nc51183469,2020-05-21T01:24:59.180Z,"offshore Northern California",earthquake,0.54,2.63,,5,reviewed,nc,nc
+2007-06-12T07:23:43.130Z,37.5403333,-118.8675,7.94,4.6,mw,44,56,,0.06,nc,nc51182810,2020-08-15T03:52:37.390Z,"14km SE of Mammoth Lakes, CA",earthquake,0.21,0.4,,5,reviewed,nc,nc
+2007-05-09T08:07:31.340Z,40.3841667,-124.9553333,-0.553,4.5,mw,57,234,0.4802,0.14,nc,nc51181706,2020-05-06T09:18:57.468Z,"offshore Northern California",earthquake,1.07,2.59,,4,reviewed,nc,nc
+2007-04-18T08:42:22.330Z,39.4645,-123.1073333,4.725,4.79,mw,45,30,0.1153,0.11,nc,nc40195779,2020-06-27T06:35:21.868Z,"Northern California",earthquake,0.16,0.9,,10,reviewed,nc,nc
+2007-03-28T14:28:54.710Z,25.497,-109.633,10,5.3,mwc,161,53.7,,1.07,us,usp000f7q9,2016-11-10T01:37:25.422Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2007-03-28T13:21:37.140Z,25.423,-109.707,10,5.2,mwc,158,58.5,,1.17,us,usp000f7q7,2016-11-10T01:37:24.924Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2007-03-13T02:59:04.400Z,26.261,-110.537,26.1,6,mwb,266,119.5,,1.29,us,usp000f6m4,2016-11-10T01:36:52.622Z,"Gulf of California",earthquake,,7,,,reviewed,us,us
+2007-03-09T03:17:32.110Z,38.4293333,-119.3606667,6.785,4.7,mw,39,119,0.0964,0.06,nc,nc51179422,2020-06-27T06:28:16.203Z,"22km NNW of Bridgeport, California",earthquake,0.17,0.37,,8,reviewed,nc,nc
+2007-02-27T22:23:06.470Z,26.003,-110.248,10,4.5,mb,14,151.4,,1.06,us,usp000f5sx,2014-11-07T01:31:43.010Z,"Gulf of California",earthquake,,,,3,reviewed,us,us
+2007-02-27T20:08:09.040Z,25.981,-110.46,10,5,mwc,120,70.3,,1.03,us,usp000f5sp,2016-11-10T01:36:19.758Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2007-02-26T12:21:02.140Z,40.642,-124.87,4.957,5.4,mh,21,329,,69.32,ci,ci10233309,2016-03-09T08:10:39.568Z,"52km W of Ferndale, CA",earthquake,99,31.61,,0,reviewed,ci,ci
+2007-02-26T12:19:54.530Z,40.6428333,-124.8628333,-0.533,5.4,mw,94,244,0.4333,0.19,nc,nc40193932,2020-06-27T06:20:58.789Z,"offshore Northern California",earthquake,0.7,1.64,,13,reviewed,nc,nc
+2007-02-25T15:03:49.140Z,26.029,-110.613,10,5.2,mb,58,85.5,,1.25,us,usp000f5m6,2015-05-13T18:53:51.000Z,"Gulf of California",earthquake,,,,13,reviewed,us,us
+2007-02-25T15:00:41.150Z,26.146,-110.421,10,5.9,mwb,188,50,,1.35,us,usp000f5m5,2016-11-10T01:36:09.459Z,"Gulf of California",earthquake,,,,,reviewed,us,us
+2007-02-25T01:18:33.670Z,26.002,-110.461,10,5.2,mwc,143,149.3,,1.31,us,usp000f5jr,2016-11-10T01:36:07.263Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2007-02-23T07:30:12.140Z,25.988,-110.495,10,5.2,mwc,117,86.5,,1.21,us,usp000f5ey,2016-11-10T01:36:00.636Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2007-02-23T07:12:18.230Z,25.955,-110.522,10,5.2,mwc,110,81.6,,1.09,us,usp000f5ew,2016-11-09T06:41:58.418Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2007-02-23T04:16:15.220Z,25.974,-110.352,10,4.9,mwc,49,154.5,,1.2,us,usp000f5ep,2016-11-10T01:36:00.108Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2007-01-18T06:21:06.420Z,30.493,-114.086,10,4.8,mwc,54,149.6,,1.2,us,usp000f2x4,2016-11-10T01:33:52.743Z,"Baja California, Mexico",earthquake,,,,,reviewed,us,gcmt
+2006-12-06T14:09:58.810Z,27.593,-111.295,10,5,mwc,47,92.6,,0.98,us,usp000eznj,2016-11-10T01:32:12.675Z,"Gulf of California",earthquake,,,,,reviewed,us,gcmt
+2006-12-01T19:33:08.150Z,26.716,-114.199,10,4.9,mwc,92,128.2,,1.39,us,usp000eza7,2016-11-10T01:32:00.304Z,"offshore Baja California Sur, Mexico",earthquake,,,,,reviewed,us,gcmt
+2006-11-29T16:15:13.480Z,26.786,-114.198,10,4.5,mb,57,128.2,,1.2,us,usp000ez5a,2014-11-07T01:30:59.074Z,"offshore Baja California Sur, Mexico",earthquake,,,,18,reviewed,us,us
+2006-11-29T14:34:02.630Z,26.728,-114.161,10,5,mwc,87,128.1,,1.5,us,usp000ez53,2016-11-10T01:31:53.695Z,"offshore Baja California Sur, Mexico",earthquake,,,,,reviewed,us,gcmt
+2006-11-03T15:56:43.050Z,32.676,-116.0481667,13.436,4.62,ml,48,145,0.04732,0.44,ci,ci10215753,2020-06-27T06:05:57.191Z,"8km SW of Ocotillo, CA",earthquake,0.48,0.64,0.173,378,reviewed,ci,ci
+2006-10-20T17:00:08.100Z,38.8666667,-122.7873333,2.546,4.56,mw,69,39,0.04685,0.08,nc,nc21543835,2020-05-06T09:10:38.703Z,"Northern California",earthquake,0.13,0.4,,7,reviewed,nc,nc
+2006-10-08T02:48:26.650Z,46.8498333,-121.6001667,1.649,4.5,md,96,23,,0.35,uw,uw10701498,2017-07-18T00:25:02.143Z,"Washington",earthquake,0.336,0.63,0.04,18,reviewed,uw,uw
+2006-09-10T14:56:08.160Z,26.319,-86.606,14,5.9,mwc,590,46.9,,0.83,us,usp000esv9,2016-11-10T01:28:07.497Z,"Gulf of Mexico",earthquake,,,,,reviewed,us,gcmt
+2006-08-03T03:08:12.860Z,38.3635,-122.5886667,8.55,4.5,mw,107,28,0.01712,0.14,nc,nc21530368,2020-05-06T09:05:57.951Z,"Northern California",earthquake,0.14,0.27,,6,reviewed,nc,nc
+2006-07-30T01:20:59.250Z,26.864,-111.209,10,5.9,mwb,294,108.1,,1.17,us,usp000epv9,2016-11-10T01:26:21.136Z,"Baja California Sur, Mexico",earthquake,,,,,reviewed,us,us
+2006-07-19T11:41:43.460Z,40.2806667,-124.4331667,20.064,5,mw,39,223,0.2081,0.09,nc,nc21527987,2020-05-06T09:05:26.783Z,"offshore Northern California",earthquake,0.61,0.45,,6,reviewed,nc,nc
+2006-05-28T14:18:02.710Z,26.698,-111.227,10,5.1,mwc,87,159.5,,1.07,us,usp000ej5v,2016-11-10T01:23:02.708Z,"Baja California Sur, Mexico",earthquake,,,,,reviewed,us,hrv
+2006-05-28T14:02:54.470Z,26.779,-111.089,10,5.2,mwc,42,92.6,,1.27,us,usp000ej5s,2016-11-10T01:23:02.203Z,"Baja California Sur, Mexico",earthquake,,,,,reviewed,us,hrv
+2006-05-28T14:00:57.590Z,26.752,-111.206,10,4.6,mb,92,94.8,,1.03,us,usp000ej5r,2014-11-07T01:29:12.260Z,"Baja California Sur, Mexico",earthquake,,,,41,reviewed,us,us
+2006-05-24T04:20:26.010Z,32.3066667,-115.2278333,6.006,5.37,mw,21,263,0.4775,0.36,ci,ci12245763,2020-05-21T00:49:53.104Z,"6km SSW of Delta, B.C., MX",earthquake,1.86,31.61,0.221,0,reviewed,ci,ci
+2006-05-12T10:37:29.330Z,38.8171667,-122.8138333,3.618,4.71,mw,47,32,0.01802,0.11,nc,nc21516950,2020-05-06T08:15:03.181Z,"Northern California",earthquake,0.17,0.47,,7,reviewed,nc,nc
+2006-05-01T21:04:42.600Z,30.199,-114.332,10,5.1,mwc,61,165.7,,1.17,us,usp000eg09,2016-11-10T01:21:35.698Z,"Baja California, Mexico",earthquake,,,,,reviewed,us,hrv
+2006-05-01T20:53:20.960Z,29.809,-114.588,10,4.9,mwc,40,182,,1.41,us,usp000eg08,2016-11-10T01:21:35.204Z,"Baja California, Mexico",earthquake,,,,,reviewed,us,hrv
+2006-03-26T01:56:37.600Z,40.2778333,-124.449,22.253,4.6,mw,28,240,0.2153,0.13,nc,nc21510606,2020-05-06T08:10:18.795Z,"offshore Northern California",earthquake,1.46,0.8,,5,reviewed,nc,nc
+2006-02-10T04:14:22.200Z,27.828,-90.21,5,5.3,ms,53,122.6,,,us,usp000e9v9,2015-03-24T01:52:59.909Z,"Gulf of Mexico",earthquake,,,,103,reviewed,spec,us
+2006-01-04T09:17:54.800Z,28.003,-112.468,10,4.9,mb,77,131.1,,1.07,us,usp000e7js,2014-11-07T01:28:03.696Z,"Gulf of California",earthquake,,,,20,reviewed,us,us
+2006-01-04T08:32:32.400Z,28.164,-112.117,14,6.6,mwc,323,48.2,,1.25,us,usp000e7jp,2020-09-18T20:50:47.562Z,"Gulf of California",earthquake,,,,,reviewed,us,hrv
+2006-01-04T08:30:39.610Z,28.001,-112.255,10,4.5,mb,51,131.1,,0.91,us,usp000e7jn,2014-11-07T01:28:03.627Z,"Gulf of California",earthquake,,,,16,reviewed,us,us
+2006-01-04T03:45:06.260Z,27.953,-112.135,10,4.6,mb,46,196.9,,1.02,us,usp000e7ja,2014-11-07T01:28:03.579Z,"Baja California Sur, Mexico",earthquake,,,,16,reviewed,us,us
+2006-01-04T01:05:08.770Z,27.959,-112.143,10,5.2,mwc,131,112.8,,0.96,us,usp000e7j4,2016-11-10T01:16:30.014Z,"Baja California Sur, Mexico",earthquake,,,,,reviewed,us,hrv
+2005-10-31T00:23:30.930Z,44.874,-113.399,5,4.5,mwc,48,61.5,,0.73,us,usp000e365,2015-03-24T00:45:43.157Z,"western Montana",earthquake,,,,,reviewed,us,hrv
+2005-10-16T21:11:35.010Z,32.4545,-118.1633333,9.778,4.99,ml,20,244,0.6157,0.38,ci,ci10147909,2020-06-27T05:37:10.324Z,"44km SSE of San Clemente Is. (SE tip), CA",earthquake,1.44,31.61,0.111,386,reviewed,ci,ci
+2005-09-22T20:24:48.620Z,35.0433333,-119.0143333,10.005,4.69,mw,107,18,,0.41,ci,ci14186612,2020-05-02T01:31:54.868Z,"14km NW of Grapevine, CA",earthquake,0.31,0.71,0.232,0,reviewed,ci,ci
+2005-09-02T01:27:19.590Z,33.1533333,-115.6463333,1.207,5.08,mw,39,52,0.03525,0.33,ci,ci14179736,2020-06-27T04:55:21.739Z,"13km WNW of Calipatria, CA",earthquake,0.33,0.86,,6,reviewed,ci,ci
+2005-09-02T01:27:18.610Z,33.1748333,-115.6311667,4.977,4.5,mh,60,32,0.01097,0.36,ci,ci12217067,2018-07-30T18:56:23.215Z,"12km WNW of Calipatria, CA",earthquake,0.49,0.78,,0,reviewed,ci,ci
+2005-08-31T23:32:11.040Z,33.1896667,-115.603,4.267,4.57,ml,55,44,0.01613,0.4,ci,ci14178248,2020-06-27T04:48:10.189Z,"10km SW of Niland, CA",earthquake,0.5,0.75,0.142,170,reviewed,ci,ci
+2005-08-31T22:47:45.530Z,33.1663333,-115.6351667,4.003,4.63,ml,45,67,0.0198,0.27,ci,ci14178184,2020-06-27T04:47:30.746Z,"12km WNW of Calipatria, CA",earthquake,0.27,31.61,0.131,153,reviewed,ci,ci
+2005-08-10T22:08:22.610Z,36.947,-104.833,5,5,mwc,177,21.4,,0.68,us,usp000dx3k,2020-04-16T17:29:20.668Z,"New Mexico",earthquake,,,,,reviewed,us,hrv
+2005-07-26T04:08:37.160Z,45.365,-112.615,12.9,5.6,mwc,458,25.7,,0.74,us,usp000dvxx,2020-07-08T01:55:40.901Z,"western Montana",earthquake,,,,,reviewed,us,hrv
+2005-06-28T14:41:55.750Z,24.821,-112.206,10,4.5,mb,18,209.2,,1.3,us,usp000du3b,2014-11-07T01:26:18.169Z,"offshore Baja California Sur, Mexico",earthquake,,,,4,reviewed,us,us
+2005-06-26T18:45:57.790Z,39.305,-120.0928333,-2.261,4.77,mw,25,82,0.04955,0.26,nc,nc21465580,2020-05-06T08:01:53.473Z,"7km N of Tahoe Vista, California",earthquake,0.55,2.81,,6,reviewed,nc,nc
+2005-06-16T20:53:26.020Z,34.058,-117.0113333,10.558,4.88,mw,149,18,,0.29,ci,ci14155260,2020-08-25T22:12:46.447Z,"4km NE of Yucaipa, CA",earthquake,0.21,0.46,,6,reviewed,ci,ci
+2005-06-12T15:41:46.520Z,33.5325,-116.5666667,13.051,5.2,mw,96,19,0.04319,0.21,ci,ci14151344,2020-05-02T01:28:17.103Z,"10km ESE of Anza, CA",earthquake,0.17,0.26,,0,reviewed,ci,ci
+2005-04-27T00:32:59.020Z,30.253,-114.132,10,5.1,mwc,142,161.6,,0.9,us,usp000dpb7,2016-11-10T01:05:27.581Z,"Baja California, Mexico",earthquake,,,,,reviewed,us,hrv
+2005-04-16T19:18:13.400Z,35.0223333,-119.191,9.288,4.59,mw,73,62,,0.35,ci,ci14138080,2020-06-27T04:41:38.079Z,"20km ESE of Maricopa, CA",earthquake,0.31,1.64,,6,reviewed,ci,ci
+2005-03-18T07:23:58.490Z,40.3706667,-124.972,17.08,4.85,mw,139,230,0.4964,0.27,nc,nc21446135,2020-05-06T07:09:36.986Z,"offshore Northern California",earthquake,0.87,4.5,,4,reviewed,nc,nc
+2005-03-06T06:17:49.000Z,47.75,-69.73,13.3,4.9,mb,199,30.1,,,us,usp000dhn5,2020-07-08T01:51:29.831Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,,,,78,reviewed,ott,us
+2005-03-02T11:12:57.420Z,34.715,-110.97,5,5.1,mb,30,55.1,,0.82,us,usp000dhc3,2015-03-24T00:43:43.447Z,"Arizona",earthquake,,,,2,reviewed,us,us
+2005-02-22T19:15:49.910Z,25.669,-109.97,10,5.6,mwb,160,66,,1.19,us,usp000dgrs,2016-11-10T01:01:49.314Z,"Gulf of California",earthquake,,,,,reviewed,us,us
+2004-10-09T03:45:48.680Z,37.9788333,-118.6588333,5.445,4.52,mw,47,67,0.04595,0.08,nc,nc21405798,2020-05-06T07:00:23.618Z,"45km NE of Mammoth Lakes, California",earthquake,0.22,0.67,,4,reviewed,nc,nc
+2004-09-30T18:54:28.840Z,35.988,-120.5378333,9.889,4.88,mw,68,27,0.01802,0.05,nc,nc21401170,2020-05-06T06:59:38.670Z,"Central California",earthquake,0.12,0.2,,4,reviewed,nc,nc
+2004-09-29T22:54:54.240Z,35.3898333,-118.6235,2.788,5.03,mw,71,18,,0.25,ci,ci14095628,2020-05-02T01:25:07.662Z,"25km SSW of Bodfish, California",earthquake,0.27,0.72,,6,reviewed,ci,ci
+2004-09-29T17:10:04.030Z,35.9536667,-120.5021667,10.772,5,mw,66,33,0.003604,0.07,nc,nc21401069,2020-05-06T06:59:12.438Z,"Central California",earthquake,0.15,0.21,,6,reviewed,nc,nc
+2004-09-28T17:24:15.280Z,35.8045,-120.3498333,5.998,4.71,mw,56,37,0.02613,0.04,nc,nc21400461,2020-05-06T06:58:45.861Z,"Central California",earthquake,0.13,0.24,,3,reviewed,nc,nc
+2004-09-28T17:15:24.250Z,35.8181667,-120.366,8.136,5.97,mw,61,26,0.01622,0.04,nc,nc30228270,2020-07-07T22:35:46.389Z,"18km N of Shandon, California",earthquake,0.14,0.25,,4,reviewed,nc,nc
+2004-09-24T14:43:11.370Z,28.565,-112.725,10,5.9,mwb,286,48.6,,1.13,us,usp000d4zn,2016-11-10T00:46:49.446Z,"Gulf of California",earthquake,,,,,reviewed,us,us
+2004-09-20T16:51:04.810Z,38.0276667,-118.6425,2.185,4.67,mw,49,65,0.06216,0.08,nc,nc21397068,2020-05-06T06:57:17.303Z,"Central California",earthquake,0.18,0.6,,5,reviewed,nc,nc
+2004-09-18T23:43:41.490Z,38.0233333,-118.658,0.431,5.35,mw,48,76,0.07117,0.07,nc,nc30500748,2018-04-24T21:16:56.131Z,"49km NE of Mammoth Lakes, California",earthquake,0.21,2.84,,6,reviewed,nc,nc
+2004-09-18T23:02:17.750Z,38.0095,-118.6785,3.355,5.4,mw,52,55,0.05045,0.08,nc,nc21396205,2020-05-06T06:56:54.725Z,"47km NNE of Mammoth Lakes, California",earthquake,0.2,0.6,,9,reviewed,nc,nc
+2004-08-30T05:35:16.150Z,29.519,-116.554,10,5.2,mwc,168,77,,0.97,us,usp000d367,2016-11-10T00:44:21.760Z,"offshore Baja California, Mexico",earthquake,,,,,reviewed,us,hrv
+2004-08-20T08:06:15.330Z,28.218,-113.12,10,4.6,mb,111,109.3,,1.39,us,usp000d2gv,2014-11-07T01:23:14.505Z,"Baja California, Mexico",earthquake,,,,24,reviewed,us,us
+2004-08-20T06:33:05.390Z,29.861,-114.047,10,4.6,mb,80,184.4,,1.1,us,usp000d2gp,2014-11-07T01:23:14.472Z,"Baja California, Mexico",earthquake,,,,14,reviewed,us,us
+2004-08-19T06:06:03.630Z,44.6645,-124.3003333,27.274,4.7,md,23,212,,0.29,uw,uw10613523,2016-09-01T18:41:30.435Z,"offshore Oregon",earthquake,1.284,0.75,0.04,19,reviewed,uw,uw
+2004-07-12T16:45:00.780Z,44.3338333,-124.4888333,28.75,4.9,md,18,247,0.4973,0.24,uw,uw10609208,2017-03-02T23:13:58.652Z,"offshore Oregon",earthquake,1.418,0.75,0.05,2,reviewed,uw,uw
+2004-06-22T06:10:45.790Z,25.079,-109.277,38.7,4.6,mb,105,172.8,,0.97,us,usp000cygd,2014-11-07T01:22:40.333Z,"Gulf of California",earthquake,,5.3,,27,reviewed,us,us
+2004-06-15T22:28:48.190Z,32.3428333,-117.9141667,9.824,4.98,mw,10,249,0.7503,0.79,ci,ci14065544,2020-05-02T01:23:29.284Z,"67km SE of San Clemente Is. (SE tip), CA",earthquake,3.45,31.61,,6,reviewed,ci,ci
+2004-05-16T01:29:39.277Z,37.2798,-114.84,0,4.5,ml,7,227,0.21,0.1102,nn,nn00105745,2018-04-24T21:11:39.934Z,"Nevada",earthquake,,0,,,reviewed,nn,nn
+2004-04-06T19:01:02.700Z,25.172,-99.532,37.7,4.5,md,6,218,,,us,usp000crva,2014-11-07T01:21:55.399Z,"Nuevo Leon, Mexico",earthquake,,,,,reviewed,unm,unm
+2004-03-17T23:53:07.280Z,35.7306667,-121.075,4.271,4.51,mw,67,46,0.06036,0.09,nc,nc21351360,2020-05-06T06:53:37.080Z,"Central California",earthquake,0.15,0.46,,7,automatic,nc,nc
+2004-02-18T20:37:46.420Z,38.8366667,-122.7671667,2.551,4.58,mw,53,37,0.02613,0.09,nc,nc21344222,2020-05-06T06:52:50.814Z,"Northern California",earthquake,0.13,0.43,,5,reviewed,nc,nc
+2004-02-09T09:03:47.430Z,24.814,-112.51,10,5.4,mwc,172,121.5,,1.17,us,usp000cktn,2016-11-10T00:25:45.991Z,"offshore Baja California Sur, Mexico",earthquake,,,,,reviewed,us,hrv
+2004-02-09T01:24:40.630Z,24.897,-112.393,10,5.5,mwb,171,114.5,,1.29,us,usp000cksm,2016-11-10T00:25:45.023Z,"offshore Baja California Sur, Mexico",earthquake,,,,,reviewed,us,us
+2004-01-07T07:51:37.320Z,43.571,-110.383,3.1,5,mwc,67,35.2,,0.62,us,usp000chbr,2016-11-10T00:22:47.511Z,"Wyoming",earthquake,,3.4,,,reviewed,us,hrv
+2003-12-23T18:17:11.210Z,35.6456667,-121.0536667,7.787,4.7,mw,44,73,0.05586,0.08,nc,nc21324051,2020-02-12T16:51:06.881Z,"Central California",earthquake,0.2,0.81,,6,reviewed,nc,nc
+2003-12-22T19:53:30.200Z,35.6511667,-121.0716667,6.514,4.69,ml,9,244,0.4177,0.21,ci,ci9966477,2020-02-12T16:52:17.608Z,"10km N of Cambria, CA",earthquake,2.23,19.47,0.214,12,reviewed,ci,ci
+2003-12-22T19:26:07.230Z,35.6318333,-121.0551667,7.796,4.73,ml,21,111,0.1135,0.08,nc,nc21323713,2019-06-28T18:47:49.860Z,"Central California",earthquake,0.35,0.98,,18,reviewed,nc,nc
+2003-12-22T19:15:56.240Z,35.7005,-121.1005,8.382,6.5,mw,65,71,0.04685,0.07,nc,nc21323712,2020-08-14T17:23:56.082Z,"Central California",earthquake,0.16,0.6,,4,reviewed,nc,nc
+2003-12-09T20:59:18.700Z,37.774,-78.1,10,4.5,mlg,,,,,se,se605386,2020-07-10T14:36:17.096Z,"16km E of Weber City, Virginia",earthquake,8.8,6.3,,,reviewed,se,se
+2003-12-05T22:53:57.670Z,28.872,-113.183,10,4.7,mb,69,133.6,,0.95,us,usp000cem7,2014-11-07T01:20:41.818Z,"Baja California, Mexico",earthquake,,,,18,reviewed,us,us
+2003-11-23T12:19:59.750Z,40.729,-115.148,10,4.5,mb,30,60.2,,0.57,us,usp000cdrc,2020-06-27T04:07:28.259Z,"Nevada",earthquake,,,,4,reviewed,us,us
+2003-11-12T04:54:56.420Z,28.967,-113.219,10,5.6,mwb,289,78,,0.87,us,usp000ccp2,2016-11-09T23:56:40.571Z,"Baja California, Mexico",earthquake,,,,,reviewed,us,us
+2003-10-27T01:40:34.270Z,39.2058333,-120.0303333,25.514,4.5,md,15,101,0.09009,0.05,nc,nc21315432,2017-03-17T17:36:22.454Z,"Northern California",earthquake,0.49,0.99,,1,reviewed,nc,nc
+2003-08-15T09:44:39.290Z,28.15,-113.223,10,4.9,mb,152,127.5,,1.27,us,usp000c4ym,2014-11-07T01:19:31.647Z,"Baja California, Mexico",earthquake,,,,50,reviewed,us,us
+2003-04-29T08:59:39.070Z,34.4938333,-85.6298333,19.81,4.6,mw,21,154,,0.07,se,se605341,2020-07-10T14:36:05.655Z,"9km NE of Fort Payne, Alabama",earthquake,0.8,0.9,,,reviewed,se,se
+2003-04-25T10:02:12.710Z,47.6705,-123.25,50.513,4.8,md,85,53,,0.18,uw,uw10583988,2020-02-12T18:48:51.336Z,"Olympic Peninsula, Washington",earthquake,0.347,0.59,0.04,8,reviewed,uw,uw
+2003-04-15T08:21:17.720Z,25.031,-109.429,10,5.5,mwc,137,178,,1.15,us,usp000bv7v,2016-11-09T22:18:14.681Z,"Gulf of California",earthquake,,,,,reviewed,us,hrv
+2003-03-22T17:55:40.420Z,26.307,-110.638,10,4.8,mb,115,168.7,,1.06,us,usp000bt8r,2014-11-07T01:18:07.494Z,"Gulf of California",earthquake,,,,39,reviewed,us,us
+2003-03-12T23:46:34.030Z,26.403,-110.41,10,4.8,mb,28,107.6,,1.15,us,usp000bshj,2014-11-07T01:18:03.781Z,"Gulf of California",earthquake,,,,18,reviewed,us,us
+2003-03-12T23:41:32.920Z,26.556,-110.587,10,6.4,mwb,288,57.9,,1.14,us,usp000bshh,2020-09-18T19:20:03.531Z,"Gulf of California",earthquake,,,,,reviewed,us,us
+2003-03-11T19:28:17.910Z,34.3591667,-116.1331667,3.069,4.64,ml,69,32.2,,0.26,ci,ci13945908,2020-02-12T17:16:53.028Z,"25km NNW of Twentynine Palms, CA",earthquake,0.22,0.44,0.968,132,reviewed,ci,ci
+2003-02-25T04:03:04.800Z,34.3155,-116.8445,1.099,4.61,ml,100,17.8,,0.27,ci,ci13938812,2020-02-12T17:18:13.363Z,"6km N of Big Bear City, CA",earthquake,0.19,0.46,0.943,132,reviewed,ci,ci
+2003-02-22T19:33:45.800Z,34.3096667,-116.8503333,1.409,4.5,ml,89,17.8,,0.23,ci,ci13936812,2020-02-12T17:18:42.341Z,"5km N of Big Bear City, CA",earthquake,0.2,0.43,0.558,133,reviewed,ci,ci
+2003-02-22T12:19:10.920Z,34.312,-116.8448333,5.589,4.99,mw,93,35,,0.32,ci,ci13935988,2020-02-12T17:20:35.912Z,"6km N of Big Bear City, CA",earthquake,0.16,0.56,,6,reviewed,ci,ci
+2003-02-07T10:34:04.830Z,31.6281667,-115.5106667,7.545,4.99,ml,19,268,1.034,0.27,ci,ci9886485,2020-02-12T17:21:08.895Z,"74km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,3.92,5.05,0.949,125,reviewed,ci,ci
+2003-01-25T09:16:10.220Z,35.3175,-118.6538333,4.868,4.54,ml,55,44.8,0.1924,0.24,ci,ci9882329,2020-02-12T17:24:03.093Z,"20km NE of Arvin, CA",earthquake,0.27,23.57,0.983,130,reviewed,ci,ci
+2002-12-10T21:04:00.690Z,32.2316667,-115.7981667,6.777,4.84,ml,21,218.5,,0.23,ci,ci13917260,2020-02-12T17:26:39.153Z,"44km SSW of Progreso, B.C., MX",earthquake,1.99,20.35,1.178,104,reviewed,ci,ci
+2002-10-29T14:16:54.080Z,34.8026667,-116.2665,3.67,4.77,ml,31,51.1,,0.2,ci,ci9854597,2020-02-12T17:31:11.098Z,"13km NW of Ludlow, CA",earthquake,0.32,0.54,0.543,130,reviewed,ci,ci
+2002-09-03T07:08:51.840Z,33.9123333,-117.7833333,9.371,4.78,ml,141,19,,0.31,ci,ci9818433,2020-02-12T17:35:38.541Z,"4km NE of Yorba Linda, CA",earthquake,0.18,0.39,0.185,166,reviewed,ci,ci
+2002-08-17T16:06:27.000Z,49.96,-120.29,10,4.5,mb,108,,,,us,usp000ba34,2014-11-07T01:16:17.298Z,"British Columbia, Canada",earthquake,,,,23,reviewed,pgc,us
+2002-06-29T14:36:04.790Z,45.3348333,-121.6863333,4.915,4.5,md,41,37,,0.27,uw,uw10569358,2020-02-12T18:51:20.151Z,"Mount Hood area, Oregon",earthquake,0.071,0.11,0.03,50,reviewed,uw,uw
+2002-06-18T17:37:17.270Z,38.0001667,-87.7563333,16.05,4.6,mw,14,99,,0.17,nm,nm605053,2020-07-10T14:27:09.529Z,"14km ENE of Mount Vernon, Indiana",earthquake,1.7,0.9,,,reviewed,nm,nm
+2002-06-17T16:55:07.680Z,40.8098333,-124.552,17.195,5.2,mw,74,225,0.3721,0.16,nc,nc21231051,2020-02-12T17:38:08.993Z,"offshore Northern California",earthquake,0.62,0.97,,3,reviewed,nc,nc
+2002-05-14T05:00:29.500Z,36.9668333,-121.5983333,6.791,4.9,mw,110,30,0.01532,0.15,nc,nc21254601,2020-02-12T17:39:33.701Z,"Northern California",earthquake,0.15,0.31,,4,reviewed,nc,nc
+2002-04-29T00:43:29.770Z,40.6021667,-124.4496667,28.697,4.6,mw,16,227,0.1532,0.04,nc,nc21223451,2020-02-12T17:40:25.280Z,"offshore Northern California",earthquake,0.55,0.83,,3,reviewed,nc,nc
+2002-04-20T10:50:47.450Z,44.5123333,-73.6973333,4.83,5.3,mlg,11,91,0.3375,0.18,ld,ld2002042000,2020-08-14T16:14:56.876Z,"New York",earthquake,0.5,1.73,,,reviewed,ld,ld
+2002-04-17T22:06:55.610Z,25.762,-109.991,10,4.6,mb,65,,,1.26,us,usp000b2m7,2014-11-07T01:15:26.043Z,"Gulf of California",earthquake,,,,18,reviewed,us,us
+2002-03-27T11:18:05.920Z,30.216,-114.011,10,4.7,mb,69,,,0.98,us,usp000b15x,2014-11-07T01:15:14.668Z,"Baja California, Mexico",earthquake,,,,12,reviewed,us,us
+2002-03-16T21:33:23.820Z,33.666,-119.33,6.765,4.6,ml,39,122.5,0.4476,0.31,ci,ci12659440,2020-02-12T17:43:23.447Z,"33km NW of Santa Barbara Is., CA",earthquake,0.58,22.45,0.742,112,reviewed,ci,ci
+2002-02-22T19:32:41.750Z,32.3188333,-115.3215,7.007,5.7,mw,20,217.5,0.4751,0.38,ci,ci12456384,2020-07-09T21:11:59.999Z,"13km WSW of Delta, B.C., MX",earthquake,2.44,31.95,,0,reviewed,ci,ci
+2002-01-12T08:26:52.900Z,28.279,-69.566,10,5.4,mwc,429,,,0.85,us,usp000aw9y,2016-11-09T21:39:07.191Z,"off the east coast of the United States",earthquake,,,,,reviewed,us,hrv
+2001-12-28T21:14:01.950Z,36.6401667,-121.251,6.575,4.6,mw,60,71,0.03243,0.07,nc,nc21207275,2019-06-28T18:47:45.408Z,"Central California",earthquake,0.15,0.32,,5,reviewed,nc,nc
+2001-12-09T01:42:26.450Z,32.0035,-115.01,7.041,4.89,ml,11,260.7,0.6714,0.3,ci,ci9732973,2017-02-09T04:30:29.576Z,"21km S of Estacion Coahuila, B.C., MX",earthquake,2.99,20.17,0.668,130,reviewed,ci,ci
+2001-12-08T23:36:10.110Z,31.9976667,-115.0016667,6.981,5.7,mw,12,261.5,0.6721,0.3,ci,ci9732601,2020-07-07T22:17:46.708Z,"22km S of Estacion Coahuila, B.C., MX",earthquake,4.65,28,,6,reviewed,ci,ci
+2001-10-31T07:56:16.630Z,33.5083333,-116.5143333,13.678,5.02,mw,78,18.2,0.07467,0.26,ci,ci9718013,2020-02-12T17:51:08.600Z,"16km ESE of Anza, CA",earthquake,0.26,0.34,,6,reviewed,ci,ci
+2001-09-05T10:52:07.890Z,37.143,-104.618,5,4.5,mblg,71,,,0.85,us,usp000anp9,2020-04-14T21:15:43.089Z,"Colorado",earthquake,,,,,reviewed,us,us
+2001-08-13T13:51:56.780Z,25.47,-109.605,10,4.9,mwc,116,,,1.04,us,usp000amdc,2016-11-09T23:14:09.858Z,"Gulf of California",earthquake,,,,,reviewed,us,hrv
+2001-08-10T20:19:27.060Z,39.8111667,-120.6166667,5.011,5.2,mw,92,111,0.1459,0.34,nc,nc21188442,2020-02-12T17:57:31.982Z,"Northern California",earthquake,0.42,0.92,,5,reviewed,nc,nc
+2001-08-08T04:38:52.320Z,25.865,-109.821,10,4.6,mb,70,,,1.05,us,usp000am0w,2014-11-07T01:13:30.622Z,"Gulf of California",earthquake,,,,31,reviewed,us,us
+2001-07-17T12:59:59.170Z,36.017,-117.8823333,-0.706,4.93,mw,33,98,0.01132,0.2,ci,ci9674213,2020-02-12T17:58:50.900Z,"7km ESE of Coso Junction, CA",earthquake,0.43,0.78,,6,reviewed,ci,ci
+2001-07-17T12:07:26.100Z,36.0163333,-117.8743333,1.864,5.17,mw,39,37,,0.18,ci,ci9674049,2020-02-12T17:59:17.025Z,"7km ESE of Coso Junction, CA",earthquake,0.35,0.48,,6,reviewed,ci,ci
+2001-06-10T13:19:11.290Z,47.1675,-123.5025,40.245,5,md,89,89,,0.29,uw,uw10529683,2020-02-12T18:56:15.350Z,"Olympic Peninsula, Washington",earthquake,0.489,0.39,0.03,9,reviewed,uw,uw
+2001-04-21T17:18:56.950Z,42.925,-111.395,0.8,5.3,mwc,298,,,,us,usp000adrg,2020-02-12T18:45:47.293Z,"southern Idaho",earthquake,,,,,reviewed,slc,hrv
+2001-02-28T18:54:32.830Z,47.149,-122.7266667,51.798,6.8,md,67,31,,0.2,uw,uw10530748,2020-08-14T14:23:32.617Z,"Puget Sound region, Washington",earthquake,0.517,0.92,0.03,0,reviewed,uw,uw
+2001-02-10T21:05:05.780Z,34.2895,-116.9458333,7.611,4.66,mw,92,23,0.05891,0.25,ci,ci9627721,2020-02-12T18:08:56.622Z,"6km NNW of Big Bear Lake, CA",earthquake,0.29,1.48,,6,reviewed,ci,ci
+2001-01-18T01:40:50.250Z,26.074,-110.315,10,5.3,mwc,140,,,1.12,us,usp000a7x0,2016-11-09T21:41:43.485Z,"Gulf of California",earthquake,,,,,reviewed,us,hrv
+2001-01-16T07:26:38.040Z,30.339,-113.778,10,4.5,mb,78,,,1.21,us,usp000a7sm,2014-11-07T01:11:56.399Z,"Gulf of California",earthquake,,,,17,reviewed,us,us
+2000-11-24T21:45:48.240Z,28.19,-112.987,10,4.9,mb,70,,,1.32,us,usp000a4vj,2014-11-07T01:11:33.651Z,"Baja California, Mexico",earthquake,,,,22,reviewed,us,us
