@@ -1,11 +1,37 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
 
 <!-- Load d3.js -->
 <script src="https://d3js.org/d3.v4.js"></script>
 
-<!-- Create a div where the graph will take place -->
-<div class="vis" id="netgraph"></div>
+<head>
+  <meta charset="utf-8">
+  <title>Project 4: Network Visualization</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <h1>Dominance Relationships Among Female Asian Elephants</h1>
+  <h2>Project 4: Network Visualization, Randy Flores, CS444</h2>
+  <p>
+    Dominance hierarchies are common in animals as they compete for limited resources. The dominance behaviors of African elephants are well documented. This dataset is a record of dominance interactions between female Asian elephants.
+  </p>
+
+  <h2>Hypothesis</h2>
+  <p>
+    I predict that the network will be sparse and that there will not be one elephant that is dominant over all the others.
+  </p>
+
+  <!-- Create a div where the graph will take place -->
+  <div class="vis" id="netgraph"></div>
+
+  <h2>Citations</h2>
+  <p class="apa-ref">
+    de Silva, Shermin, Schmid, Volker, Wittemyer, George (2017). Fission–fusion processes weaken dominance networks of female Asian elephants in a productive habitat. <em>Behavioral Ecology, 28</em>(1), 243–252, https://doi.org/10.1093/beheco/arw153
+  </p>
+  <p class="apa-ref">
+    Rossi, Ryan A., Ahmed, Nesreen K. (2015). <em>Mammalia-asianelephant</em>. Network Repository. http://networkrepository.com/mammalia-asianelephant.php
+  </p>
+</body>
 
 <script>
 var margin = {top: 10, right: 30, bottom: 30, left: 40};
