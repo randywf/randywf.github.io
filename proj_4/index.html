@@ -83,16 +83,16 @@ d3.json("./data/elephant.json", function(data){
     .attr("markerHeight", 8)
     .attr("orient", "auto") // Marker direction
   .append("svg:path")
-    .attr("d", "M0,-5L10,0L0,5"); // Marker shape
+    .attr("d", "M0,-5L10,0L0,5") // Marker shape
+    .attr("class", "arrow");
 
   // Initialize edges
   var link = svg
     .selectAll("line")
     .data(data.links)
     .enter()
-    .append("line")
+    .append("svg:line")
       .attr("class", "link")
-      .style("stroke","#000")
       .attr("marker-end", "url(#end)");
   
   // Initialize nodes
@@ -109,8 +109,7 @@ d3.json("./data/elephant.json", function(data){
         if (d.deg == 4) {return "four"};
         if (d.deg == 5) {return "five"}
       })
-      .attr("r", function(d) {return d.deg + 10})
-      //.style("fill", "#aaaaaa")
+      .attr("r", function(d) {return d.deg + 10});
   
   // Define simulation
   var simulation = d3.forceSimulation(data.nodes)

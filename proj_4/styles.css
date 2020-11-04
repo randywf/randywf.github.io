@@ -32,32 +32,36 @@ h2 {
   text-indent: -36px;
 }
 
+line.link {
+  stroke: #1C142A;
+}
+
 circle {
-  stroke: #aaaaaa;
-  stroke-width: 1.5px;
+  stroke: #1C142A;
+  stroke-width: 0.5px;
 }
 
 circle.zero {
   opacity: 1;
-  fill: #00A6FB;
+  fill: #A0C1BD;
 }
 
 circle.one {
-  fill: #0582CA;
+  fill: #79A9AF;
 }
 
 circle.two {
-  fill: #006494;
+  fill: #4F82A0;
 }
 
 circle.three {
-  fill: #003554;
+  fill: #234E94;
 }
 
 circle.four {
-  fill: #052130;
+  fill: #222C6D;
 }
 
 circle.five {
-  fill: #051923;
+  fill: #221D4A;
 }
