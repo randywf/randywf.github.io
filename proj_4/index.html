@@ -2,6 +2,8 @@
 
 <!-- Load d3.js -->
 <script src="https://d3js.org/d3.v4.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.js"></script>
+<script src="graph.js"></script>
 
 <head>
   <meta charset="utf-8">
@@ -11,134 +13,57 @@
 
 <body>
   <h1>Social Dominance Relationships Among Female Asian Elephants</h1>
-  <h2>Project 4: Network Visualization, Randy Flores, CS444</h2>
-  <!--
-  <p>
-    Dominance hierarchies are common in animals as they compete for limited resources. The dominance behaviors of African elephants are well documented. Male African elephants compete for reproductive dominance as well as social dominance, with younger and older elephants taking part.
-  </p>
-  <p>
-    Asian elephants behave differently due to living in a different habitat. There are less dominance competitions and the older elephant is more often dominant. This dataset is a record of dominance interactions between female Asian elephants.
-  </p>
-  -->
-
-  <h2>Hypothesis</h2>
-  <p>
-    I predict that the network will be sparse and that there will not be one elephant that is dominant over all the others.
-  </p>
-  <p>
-    To do this, I'll plot the relationships between the elephants in a network graph. My goal is that by doing this, the most socially dominant or active elephants will be highlighted.
-  </p>
+  <div class="hyp">
+    <h2>Hypothesis</h2>
+    <p class="text">
+      I predict that the network will be sparse and that there will not be one elephant that is dominant over all the others.
+    </p>
+  </div>
 
   <!-- Create a div where the graph will take place -->
   <div class="vis" id="netgraph"></div>
+  <script>graph()</script>
+  <!-- Div element for the legend -->
+  <div class="leg" id="legend"></div>
+  <script>
+    var linear = d3.scaleLinear()
+      .domain([0,5]);
 
-  <h2>Conclusion</h2>
-  <p>
-    For the most part, this graph is not very connected. There are many modules, including some where there are only two or three edges. This supports my hypothesis that female Asian elephants would not display as many dominance behaviors.
-  </p>
-  <p>
-    However, there are a few elephants with high degree. This indicated that they are quite socially active. It could perhaps be a result of bias in the sampling. The researchers could have, by chance, paid more attention to these elephants and noticed more events.
-  </p>
+    var svg = d3.select("#legend")
+      .append("svg")
+        .attr("width", 200)
+        .attr("height", 100)
+      .append("g")
+        .attr("class", "legendLinear")
+        .attr("transform", "translate(0,20)");
 
-  <h2>Citations</h2>
-  <p class="apa-ref">
-    de Silva, Shermin, Schmid, Volker, Wittemyer, George (2017). Fission–fusion processes weaken dominance networks of female Asian elephants in a productive habitat. <em>Behavioral Ecology, 28</em>(1), 243–252, https://doi.org/10.1093/beheco/arw153
-  </p>
-  <p class="apa-ref">
-    Rossi, Ryan A., Ahmed, Nesreen K. (2015). <em>Mammalia-asianelephant</em>. Network Repository. http://networkrepository.com/mammalia-asianelephant.php
-  </p>
+    var legendLinear = d3.legendColor()
+      .shapeWidth(30)
+      .orient('horizontal')
+      .title("Dominance displays")
+      .cells(6)
+      .scale(linear);
+
+    svg.call(legendLinear);
+  </script>
+
+  <div class="con">
+    <h2>Conclusion</h2>
+    <p>
+      For the most part, this graph is not very connected. There are many modules, including some where there are only two or three edges. This supports my hypothesis that female Asian elephants would not display as many dominance behaviors.
+    </p>
+    <p>
+      However, there are a few elephants with high degree. This indicated that they are quite socially active. It could perhaps be a result of bias in the sampling. The researchers could have, by chance, paid more attention to these elephants and noticed more events.
+    </p>
+  </div>
+
+  <div class="cit">
+    <h3>Citations</h2>
+    <p class="apa-ref">
+      de Silva, Shermin, Schmid, Volker, Wittemyer, George (2017). Fission–fusion processes weaken dominance networks of female Asian elephants in a productive habitat. <em>Behavioral Ecology, 28</em>(1), 243–252, https://doi.org/10.1093/beheco/arw153
+    </p>
+    <p class="apa-ref">
+      Rossi, Ryan A., Ahmed, Nesreen K. (2015). <em>Mammalia-asianelephant</em>. Network Repository. http://networkrepository.com/mammalia-asianelephant.php
+    </p>
+  </div>
 </body>
-
-<script>
-var margin = {top: 10, right: 30, bottom: 30, left: 40};
-var width = 1000 - margin.left - margin.right;
-var height = 1000 - margin.top - margin.bottom;
-
-var svg = d3.select("#netgraph")
-  .append("svg")
-    .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
-  .append("g")
-    .attr("transform",
-          "translate(" + margin.left + "," + margin.top + ")"
-    );
-
-d3.json("./data/elephant.json", function(data){
-  // Create degree attribute for nodes
-  data.nodes.forEach(function(node) {
-    node.deg = 0;
-  });
-  data.links.forEach(function(link) {
-    data.nodes[link.source - 1].deg += 1;
-  });
-
-  svg.append("svg:defs").selectAll("marker")
-    .data(["end"])      // Different link/path types can be defined here
-  .enter().append("svg:marker")    // This section adds in the arrows
-    .attr("id", String)
-    .attr("viewBox", "0 -5 10 10") // Size of box marker is placed in
-    .attr("refX", 20) // Marker position rel. to link
-    .attr("refY", 0.5)
-    .attr("markerWidth", 8) // Marker size
-    .attr("markerHeight", 8)
-    .attr("orient", "auto") // Marker direction
-  .append("svg:path")
-    .attr("d", "M0,-5L10,0L0,5") // Marker shape
-    .attr("class", "arrow");
-
-  // Initialize edges
-  var link = svg
-    .selectAll("line")
-    .data(data.links)
-    .enter()
-    .append("svg:line")
-      .attr("class", "link")
-      .attr("marker-end", "url(#end)");
-  
-  // Initialize nodes
-  var node = svg
-    .selectAll("circle")
-    .data(data.nodes)
-    .enter()
-    .append("svg:circle")
-      .attr("class", function(d) {
-        if (d.deg == 0) {return "zero"};
-        if (d.deg == 1) {return "one"};
-        if (d.deg == 2) {return "two"};
-        if (d.deg == 3) {return "three"};
-        if (d.deg == 4) {return "four"};
-        if (d.deg == 5) {return "five"}
-      })
-      .attr("r", function(d) {return d.deg + 10});
-  
-  // Define simulation
-  var simulation = d3.forceSimulation(data.nodes)
-    .force("link", d3.forceLink()
-      .id(function(d) {return d.id;})
-      .links(data.links)
-      .distance(30)
-    )
-    .force("collision", d3.forceCollide().radius(10))
-    .force("charge", d3.forceManyBody().strength(-250))
-    .force("center", d3.forceCenter(width / 2, height / 2, 1))
-    .force("radial", d3.forceRadial()
-      .radius(10)
-      .x(width / 2)
-      .y(height / 2)
-    )
-    .on('tick', ticked);
-
-  // Define tick function of simulation
-  function ticked() {
-    link
-      .attr("x1", function(d) {return d.source.x;})
-      .attr("y1", function(d) {return d.source.y;})
-      .attr("x2", function(d) {return d.target.x;})
-      .attr("y2", function(d) {return d.target.y;})
-    node
-      .attr("cx", function(d) {return d.x;})
-      .attr("cy", function(d) {return d.y;})
-  }
-  console.log(svg)
-});
-</script>

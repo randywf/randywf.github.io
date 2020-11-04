@@ -6,13 +6,14 @@ body {
 p {
   text-indent: 0%;
   margin-left: 5%;
-  margin-right: 10%;
+  margin-right: 5%;
 }
 
 h1{
-  margin-left: 1%;
+  margin-left: 5%;
   margin-bottom: 2px;
   font-weight: bold;
+  font-size: 28px;
 }
 
 h2 {
@@ -22,8 +23,14 @@ h2 {
   font-weight: normal;
 }
 
+h3 {
+  margin-left: 3%;
+  font-weight: lighter;
+}
+
 .vis {
   margin: auto;
+  margin-top: -75px;
   width: 80%;
 }
 
@@ -37,12 +44,11 @@ line.link {
 }
 
 circle {
-  stroke: #1C142A;
+  stroke: #dedede;
   stroke-width: 0.5px;
 }
 
 circle.zero {
-  opacity: 1;
   fill: #A0C1BD;
 }
 
@@ -64,4 +70,34 @@ circle.four {
 
 circle.five {
   fill: #221D4A;
+}
+
+path.arrow {
+  fill: none;
+  stroke: #1C142A;
+  stroke-width: 1px;
+}
+
+div {
+  outline: 0px dashed gray;
+  width: 1000px;
+  margin-left: 100px;
+}
+
+div.con {
+  margin-top: -10px;
+}
+
+div.leg {
+  width: 100px;
+  margin-top: -180px;
+  margin-left: 1000px;
+}
+
+div.cit {
+  margin-top: 50px;
+}
+
+div.hyp {
+  margin-top: 10px;
 }
