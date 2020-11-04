@@ -10,19 +10,35 @@
 </head>
 
 <body>
-  <h1>Dominance Relationships Among Female Asian Elephants</h1>
+  <h1>Social Dominance Relationships Among Female Asian Elephants</h1>
   <h2>Project 4: Network Visualization, Randy Flores, CS444</h2>
+  <!--
   <p>
-    Dominance hierarchies are common in animals as they compete for limited resources. The dominance behaviors of African elephants are well documented. This dataset is a record of dominance interactions between female Asian elephants.
+    Dominance hierarchies are common in animals as they compete for limited resources. The dominance behaviors of African elephants are well documented. Male African elephants compete for reproductive dominance as well as social dominance, with younger and older elephants taking part.
   </p>
+  <p>
+    Asian elephants behave differently due to living in a different habitat. There are less dominance competitions and the older elephant is more often dominant. This dataset is a record of dominance interactions between female Asian elephants.
+  </p>
+  -->
 
   <h2>Hypothesis</h2>
   <p>
     I predict that the network will be sparse and that there will not be one elephant that is dominant over all the others.
   </p>
+  <p>
+    To do this, I'll plot the relationships between the elephants in a network graph. My goal is that by doing this, the most socially dominant or active elephants will be highlighted.
+  </p>
 
   <!-- Create a div where the graph will take place -->
   <div class="vis" id="netgraph"></div>
+
+  <h2>Conclusion</h2>
+  <p>
+    For the most part, this graph is not very connected. There are many modules, including some where there are only two or three edges. This supports my hypothesis that female Asian elephants would not display as many dominance behaviors.
+  </p>
+  <p>
+    However, there are a few elephants with high degree. This indicated that they are quite socially active. It could perhaps be a result of bias in the sampling. The researchers could have, by chance, paid more attention to these elephants and noticed more events.
+  </p>
 
   <h2>Citations</h2>
   <p class="apa-ref">
@@ -48,13 +64,28 @@ var svg = d3.select("#netgraph")
     );
 
 d3.json("./data/elephant.json", function(data){
+  svg.append("svg:defs").selectAll("marker")
+    .data(["end"])      // Different link/path types can be defined here
+  .enter().append("svg:marker")    // This section adds in the arrows
+    .attr("id", String)
+    .attr("viewBox", "0 -5 10 10") // Size of box marker is placed in
+    .attr("refX", 20) // Marker position rel. to link
+    .attr("refY", 0.5)
+    .attr("markerWidth", 8) // Marker size
+    .attr("markerHeight", 8)
+    .attr("orient", "auto") // Marker direction
+  .append("svg:path")
+    .attr("d", "M0,-5L10,0L0,5"); // Marker shape
+
   // Initialize edges
   var link = svg
     .selectAll("line")
     .data(data.links)
     .enter()
     .append("line")
+      .attr("class", "link")
       .style("stroke","#000")
+      .attr("marker-end", "url(#end)");
   
   // Initialize nodes
   var node = svg
@@ -93,5 +124,9 @@ d3.json("./data/elephant.json", function(data){
       .attr("cx", function(d) {return d.x;})
       .attr("cy", function(d) {return d.y;})
   }
+
+  console.log(svg)
+  console.log(node)
+  console.log(link)
 });
 </script>
