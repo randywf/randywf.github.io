@@ -10,7 +10,7 @@ p {
 }
 
 h1{
-  margin-left: 5%;
+  margin-left: 30px;
   margin-bottom: 2px;
   font-weight: bold;
   font-size: 28px;
@@ -18,20 +18,26 @@ h1{
 
 h2 {
   margin-top: 2px;
-  margin-left: 3%;
+  margin-left: 0px;
   margin-bottom: 4px;
   font-weight: normal;
 }
 
 h3 {
-  margin-left: 3%;
+  margin-left: 0px;
+  font-weight: lighter;
+}
+
+h4 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 5%;
   font-weight: lighter;
 }
 
 .vis {
-  margin: auto;
+  margin-left: 75px;
   margin-top: -75px;
-  width: 80%;
 }
 
 .apa-ref {
@@ -81,7 +87,7 @@ path.arrow {
 div {
   outline: 0px dashed gray;
   width: 1000px;
-  margin-left: 100px;
+  margin-left: 80px;
 }
 
 div.con {
@@ -91,7 +97,7 @@ div.con {
 div.leg {
   width: 100px;
   margin-top: -180px;
-  margin-left: 1000px;
+  margin-left: 850px;
 }
 
 div.cit {

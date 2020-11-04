@@ -13,6 +13,13 @@
 
 <body>
   <h1>Social Dominance Relationships Among Female Asian Elephants</h1>
+
+  <div class="intro">
+    <h2>Introduction</h2>
+    <p class="text">
+      Both African and Asian elephants display social dominance over one other but there are differences that arise from their respective habitats and biology. The behaviors of female Asian elephants in particular are less understood. Over a period of 206 days, a group of researchers recorded the behaviors of these elephants.
+    </p>
+  </div>
   <div class="hyp">
     <h2>Hypothesis</h2>
     <p class="text">
@@ -26,8 +33,16 @@
   <!-- Div element for the legend -->
   <div class="leg" id="legend"></div>
   <script>
-    var linear = d3.scaleLinear()
-      .domain([0,5]);
+    var linear = d3.scaleOrdinal()
+      .domain([0,1,2,3,4,5])
+      .range([
+        "#A0C1BD",
+        "#79A9AF",
+        "#4F82A0",
+        "#234E94",
+        "#222C6D",
+        "#221D4A",
+      ]);
 
     var svg = d3.select("#legend")
       .append("svg")
@@ -50,10 +65,10 @@
   <div class="con">
     <h2>Conclusion</h2>
     <p>
-      For the most part, this graph is not very connected. There are many modules, including some where there are only two or three edges. This supports my hypothesis that female Asian elephants would not display as many dominance behaviors.
+      Throughout this social network, there were not many dominance displays that were recorded by the research. That is clear from the visualization because there are not many edges. This supports my hypothesis that this is a sparse network. Consequently, female Asian elephants do not appear to engage in many dominance displays.
     </p>
     <p>
-      However, there are a few elephants with high degree. This indicated that they are quite socially active. It could perhaps be a result of bias in the sampling. The researchers could have, by chance, paid more attention to these elephants and noticed more events.
+      However, there are a few elephants that have high degrees in this graph, up to four or five. This could indicate that there are indeed a select few elephants that are dominant over the rest. 
     </p>
   </div>
 
