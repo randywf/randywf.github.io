@@ -31,3 +31,33 @@ h2 {
   padding-left: 36px;
   text-indent: -36px;
 }
+
+circle {
+  stroke: #aaaaaa;
+  stroke-width: 1.5px;
+}
+
+circle.zero {
+  opacity: 1;
+  fill: #00A6FB;
+}
+
+circle.one {
+  fill: #0582CA;
+}
+
+circle.two {
+  fill: #006494;
+}
+
+circle.three {
+  fill: #003554;
+}
+
+circle.four {
+  fill: #052130;
+}
+
+circle.five {
+  fill: #051923;
+}

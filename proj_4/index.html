@@ -64,6 +64,14 @@ var svg = d3.select("#netgraph")
     );
 
 d3.json("./data/elephant.json", function(data){
+  // Create degree attribute for nodes
+  data.nodes.forEach(function(node) {
+    node.deg = 0;
+  });
+  data.links.forEach(function(link) {
+    data.nodes[link.source - 1].deg += 1;
+  });
+
   svg.append("svg:defs").selectAll("marker")
     .data(["end"])      // Different link/path types can be defined here
   .enter().append("svg:marker")    // This section adds in the arrows
@@ -92,9 +100,17 @@ d3.json("./data/elephant.json", function(data){
     .selectAll("circle")
     .data(data.nodes)
     .enter()
-    .append("circle")
-      .attr("r",10)
-      .style("fill","#aaaaaa")
+    .append("svg:circle")
+      .attr("class", function(d) {
+        if (d.deg == 0) {return "zero"};
+        if (d.deg == 1) {return "one"};
+        if (d.deg == 2) {return "two"};
+        if (d.deg == 3) {return "three"};
+        if (d.deg == 4) {return "four"};
+        if (d.deg == 5) {return "five"}
+      })
+      .attr("r", function(d) {return d.deg + 10})
+      //.style("fill", "#aaaaaa")
   
   // Define simulation
   var simulation = d3.forceSimulation(data.nodes)
@@ -124,9 +140,6 @@ d3.json("./data/elephant.json", function(data){
       .attr("cx", function(d) {return d.x;})
       .attr("cy", function(d) {return d.y;})
   }
-
   console.log(svg)
-  console.log(node)
-  console.log(link)
 });
 </script>
